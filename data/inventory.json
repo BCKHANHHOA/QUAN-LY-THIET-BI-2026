@@ -2682,6 +2682,58 @@
       ],
       "createdAt": "2026-06-18T05:03:07",
       "updatedAt": "2026-06-18T05:03:07"
+    },
+    {
+      "id": "dc6d38815e8148779deaee781da2d4f9",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "Bưu điện xã Ninh Phước",
+        "Mã Bưu cục": "663300",
+        "Tên Bưu cục": "Bưu cục Ninh Phước",
+        "Họ và tên người sử dụng": "Lê Thị Tân",
+        "Mã HRM": "00049210",
+        "Bộ phận / Phòng ban": "Bưu cục Ninh Phước",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "Máy tỉnh",
+        "Loại máy": "để bàn",
+        "Hãng": "Intel",
+        "Model": "vvindow 10 build 2004",
+        "Năm sản xuất": "2020",
+        "Serial Number": "",
+        "CPU": "Core i3",
+        "RAM": "4GB",
+        "Ổ cứng": "250 GB",
+        "Hệ điều hành": "window 10 pro",
+        "Office": "Microsoft Office Office 64-bit Components 2007",
+        "Antivirus": "",
+        "IP Address": "10.63.39.1",
+        "MAC Address": ""
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "HL 2231D",
+          "serial": ""
+        },
+        {
+          "type": "thermal_printer",
+          "name": "zebra zd620",
+          "serial": ""
+        },
+        {
+          "type": "photocopier",
+          "name": "Konicaminolta - Bizhub 225i",
+          "serial": ""
+        },
+        {
+          "type": "scanner",
+          "name": "zebra zs22",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-06-18T05:05:09",
+      "updatedAt": "2026-06-18T05:05:09"
     }
   ]
 }
