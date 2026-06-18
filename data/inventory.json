@@ -3811,6 +3811,48 @@
       "attachments": [],
       "createdAt": "2026-06-18T08:07:11",
       "updatedAt": "2026-06-18T08:07:11"
+    },
+    {
+      "id": "881fcb4a54ae44298417ae8ac661dc14",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "6538",
+        "Tên Xã": "Tây Khánh Sơn",
+        "Mã Bưu cục": "654240",
+        "Tên Bưu cục": "VHX Sơn Lâm",
+        "Họ và tên người sử dụng": "Cao Thị Thuyển",
+        "Mã HRM": "00271362",
+        "Bộ phận / Phòng ban": "VHX Sơn Lâm",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "ASUSH510MK",
+        "Loại máy": "Desktop",
+        "Hãng": "ASUS",
+        "Model": "System Product Name",
+        "Năm sản xuất": "",
+        "Serial Number": "System Serial Number",
+        "CPU": "Intel(R) Pentium(R) Gold G6405 CPU @ 4.10GHz",
+        "RAM": "7.8 GB",
+        "Ổ cứng": "239 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.19045",
+        "Office": "Microsoft Office Professional Plus 2019 - en-us",
+        "Antivirus": "Windows Defender",
+        "IP Address": "192.168.1.8",
+        "MAC Address": "CC:28:AA:35:54:9D"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "Canon",
+          "serial": "2900"
+        },
+        {
+          "type": "barcode_reader",
+          "name": "Antech",
+          "serial": "0000"
+        }
+      ],
+      "createdAt": "2026-06-18T08:35:06",
+      "updatedAt": "2026-06-18T08:35:06"
     }
   ]
 }
