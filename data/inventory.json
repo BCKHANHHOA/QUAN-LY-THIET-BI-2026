@@ -1517,6 +1517,43 @@
       ],
       "createdAt": "2026-06-18T02:41:12",
       "updatedAt": "2026-06-18T02:41:12"
+    },
+    {
+      "id": "34fda9d3938847a1bcd681acc47d1fe3",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "6535",
+        "Tên Xã": "BCVH Vạn Ninh",
+        "Mã Bưu cục": "6535",
+        "Tên Bưu cục": "BCVH Vạn Ninh",
+        "Họ và tên người sử dụng": "Lê Văn Hoà",
+        "Mã HRM": "00038567",
+        "Bộ phận / Phòng ban": "Giám Đốc BCVH Vạn Ninh",
+        "Mã vật tư": "CC207230",
+        "Tên máy (Hostname)": "2FPGDOH",
+        "Loại máy": "Desktop",
+        "Hãng": "DELL",
+        "Model": "",
+        "Năm sản xuất": "",
+        "Serial Number": "",
+        "CPU": "Intel® Core(TM) i3-8100T CPU @3.10GHZ",
+        "RAM": "4GB",
+        "Ổ cứng": "237GB",
+        "Hệ điều hành": "Windows 10 Pro",
+        "Office": "Office 2021",
+        "Antivirus": "",
+        "IP Address": "10.57.132.9",
+        "MAC Address": "B8-85-84-AF-49-20"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "HP",
+          "serial": "Laser Jet Pro M203d"
+        }
+      ],
+      "createdAt": "2026-06-18T02:32:05",
+      "updatedAt": "2026-06-18T02:32:05"
     }
   ]
 }
