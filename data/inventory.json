@@ -2194,6 +2194,37 @@
       ],
       "createdAt": "2026-06-18T03:26:34",
       "updatedAt": "2026-06-18T03:26:34"
+    },
+    {
+      "id": "8a0288af4cdf4dd6b5542ba23db8dc5d",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "6624",
+        "Tên Xã": "Cà Ná",
+        "Mã Bưu cục": "663460",
+        "Tên Bưu cục": "Cà Ná",
+        "Họ và tên người sử dụng": "Dương Thị Mỹ Vân",
+        "Mã HRM": "00277485",
+        "Bộ phận / Phòng ban": "Bưu cục Cà Ná",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "NTN-TNM-6634602",
+        "Loại máy": "Desktop",
+        "Hãng": "Dell Inc.",
+        "Model": "OptiPlex 5060",
+        "Năm sản xuất": "",
+        "Serial Number": "G5LYSR2",
+        "CPU": "Intel(R) Core(TM) i3-8100T CPU @ 3.10GHz",
+        "RAM": "3.8 GB",
+        "Ổ cứng": "225 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.19045",
+        "Office": "Microsoft Office 64-bit Components 2016",
+        "Antivirus": "Windows Defender, FortiClient AntiVirus, Kaspersky Endpoint Security for Windows",
+        "IP Address": "10.63.115.115",
+        "MAC Address": "B8:85:84:AB:0E:FC"
+      },
+      "attachments": [],
+      "createdAt": "2026-06-18T03:29:18",
+      "updatedAt": "2026-06-18T03:29:18"
     }
   ]
 }
