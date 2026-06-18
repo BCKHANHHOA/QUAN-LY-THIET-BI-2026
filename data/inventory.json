@@ -387,6 +387,37 @@
       "attachments": [],
       "createdAt": "2026-06-18T01:23:38",
       "updatedAt": "2026-06-18T01:23:38"
+    },
+    {
+      "id": "d3685160529442d9a119595ab24e4828",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "65",
+        "Tên Bưu cục": "BƯU ĐIỆN TỈNH KHÁNH HÒA",
+        "Họ và tên người sử dụng": "HOÀNG THỊ MỸ LỆ",
+        "Mã HRM": "00038721",
+        "Bộ phận / Phòng ban": "PHÒNG TÀI CHÍNH KẾ HOẠCH",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "KHA-CL-LE",
+        "Loại máy": "Desktop",
+        "Hãng": "HP",
+        "Model": "HP ProDesk 600 G5 Desktop Mini",
+        "Năm sản xuất": "",
+        "Serial Number": "8CC01132N9",
+        "CPU": "Intel(R) Core(TM) i3-9100T CPU @ 3.10GHz",
+        "RAM": "11,8 GB",
+        "Ổ cứng": "584 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Home Single Language 10.0.19045",
+        "Office": "Microsoft Office Professional Plus 2019 - en-us",
+        "Antivirus": "Windows Defender, Kaspersky",
+        "IP Address": "10.57.134.38",
+        "MAC Address": "38:22:E2:19:3F:4C"
+      },
+      "attachments": [],
+      "createdAt": "2026-06-18T01:24:20",
+      "updatedAt": "2026-06-18T01:24:20"
     }
   ]
 }
