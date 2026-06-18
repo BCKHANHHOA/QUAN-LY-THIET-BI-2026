@@ -517,6 +517,37 @@
       "attachments": [],
       "createdAt": "2026-06-18T01:26:56",
       "updatedAt": "2026-06-18T01:26:56"
+    },
+    {
+      "id": "0c5565c379fe419484797f166bd7057c",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "65",
+        "Tên Bưu cục": "Bưu điện tỉnh khánh hoà",
+        "Họ và tên người sử dụng": "Trần Uyên Phương",
+        "Mã HRM": "00038864",
+        "Bộ phận / Phòng ban": "Phòng Tài chính kế hoạch",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "KHA-NT-THUNGOC",
+        "Loại máy": "Desktop",
+        "Hãng": "Dell Inc.",
+        "Model": "OptiPlex 5060",
+        "Năm sản xuất": "",
+        "Serial Number": "GBZYSR2",
+        "CPU": "Intel(R) Core(TM) i3-8100T CPU @ 3.10GHz",
+        "RAM": "3.8 GB",
+        "Ổ cứng": "702 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.19045",
+        "Office": "Microsoft Office LTSC Professional Plus 2021 - en-us",
+        "Antivirus": "Windows Defender",
+        "IP Address": "10.57.129.71",
+        "MAC Address": "B8:85:84:B5:E4:48"
+      },
+      "attachments": [],
+      "createdAt": "2026-06-18T01:22:10",
+      "updatedAt": "2026-06-18T01:22:10"
     }
   ]
 }
