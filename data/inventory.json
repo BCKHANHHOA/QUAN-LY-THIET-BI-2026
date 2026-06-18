@@ -486,6 +486,37 @@
       "attachments": [],
       "createdAt": "2026-06-18T01:26:42",
       "updatedAt": "2026-06-18T01:26:42"
+    },
+    {
+      "id": "02e1fa859f844c03ba139ce239909fdf",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "65",
+        "Tên Bưu cục": "Bưu điện Tỉnh Khánh Hòa",
+        "Họ và tên người sử dụng": "Nguyễn Thanh Thanh",
+        "Mã HRM": "00117852",
+        "Bộ phận / Phòng ban": "Phòng Tài chính Kế toán",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "KHA-NT-TTHANH",
+        "Loại máy": "Desktop",
+        "Hãng": "Gigabyte Technology Co., Ltd.",
+        "Model": "H310M DS2 2.0",
+        "Năm sản xuất": "",
+        "Serial Number": "Default string",
+        "CPU": "Intel(R) Pentium(R) Gold G5400 CPU @ 3.70GHz",
+        "RAM": "3.9 GB",
+        "Ổ cứng": "112 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.14393",
+        "Office": "Microsoft Office Professional Plus 2016",
+        "Antivirus": "Windows Defender, Kaspersky Endpoint Security for Windows",
+        "IP Address": "10.57.129.79",
+        "MAC Address": "B4:2E:99:51:48:B9"
+      },
+      "attachments": [],
+      "createdAt": "2026-06-18T01:26:56",
+      "updatedAt": "2026-06-18T01:26:56"
     }
   ]
 }
