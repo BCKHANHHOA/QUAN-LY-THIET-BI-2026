@@ -1905,6 +1905,53 @@
       ],
       "createdAt": "2026-06-18T03:14:17",
       "updatedAt": "2026-06-18T03:14:17"
+    },
+    {
+      "id": "9cd3e91ee5654a41b505efbf40aea907",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "NHỊ HÀ",
+        "Mã Bưu cục": "663420",
+        "Tên Bưu cục": "VHX NHỊ HÀ",
+        "Họ và tên người sử dụng": "NGUYỄN THỊ DIỄM TRINH",
+        "Mã HRM": "00083808",
+        "Bộ phận / Phòng ban": "GIAO DỊCH VIÊN",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "NTN-TNM-663420",
+        "Loại máy": "Desktop",
+        "Hãng": "HP",
+        "Model": "HP ProDesk 600 G5 Desktop Mini",
+        "Năm sản xuất": "",
+        "Serial Number": "8CC01132CW",
+        "CPU": "Intel(R) Core(TM) i3-9100T CPU @ 3.10GHz",
+        "RAM": "3.8 GB",
+        "Ổ cứng": "240 GB",
+        "Hệ điều hành": "Microsoft Windows 11 Pro 10.0.26200",
+        "Office": "Microsoft Office Professional Plus 2021 - en-us",
+        "Antivirus": "Windows Defender, FortiClient AntiVirus",
+        "IP Address": "10.63.101.103",
+        "MAC Address": "38:22:E2:18:97:A9"
+      },
+      "attachments": [
+        {
+          "type": "thermal_printer",
+          "name": "ZD620",
+          "serial": ""
+        },
+        {
+          "type": "photocopier",
+          "name": "CANON",
+          "serial": ""
+        },
+        {
+          "type": "barcode_reader",
+          "name": "HONEYWELL",
+          "serial": "17074B1FDA"
+        }
+      ],
+      "createdAt": "2026-06-18T03:15:59",
+      "updatedAt": "2026-06-18T03:15:59"
     }
   ]
 }
