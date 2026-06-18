@@ -4251,6 +4251,43 @@
       ],
       "createdAt": "2026-06-18T09:40:32",
       "updatedAt": "2026-06-18T09:40:32"
+    },
+    {
+      "id": "735cb949fc184272bcabe8f73013cc71",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "6528",
+        "Tên Bưu cục": "Cam Lâm",
+        "Họ và tên người sử dụng": "Nguyễn Thị Hoàng Vi",
+        "Mã HRM": "00038713",
+        "Bộ phận / Phòng ban": "Giám đốc",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "KHA-CL-",
+        "Loại máy": "Desktop",
+        "Hãng": "RealBom",
+        "Model": "RB-P101G",
+        "Năm sản xuất": "",
+        "Serial Number": "P101GV6821121030",
+        "CPU": "Intel(R) Celeron(R) CPU  J1900  @ 1.99GHz",
+        "RAM": "3.9 GB",
+        "Ổ cứng": "119 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Enterprise LTSC 10.0.17763",
+        "Office": "Microsoft Office Professional Plus 2016 - en-us",
+        "Antivirus": "Windows Defender",
+        "IP Address": "10.57.134.56",
+        "MAC Address": "50:AF:73:37:80:C5"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "Canon LBP 2900",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-06-18T09:45:55",
+      "updatedAt": "2026-06-18T09:45:55"
     }
   ]
 }
