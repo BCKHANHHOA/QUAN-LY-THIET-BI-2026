@@ -861,6 +861,43 @@
       ],
       "createdAt": "2026-06-18T01:37:36",
       "updatedAt": "2026-06-18T01:37:36"
+    },
+    {
+      "id": "4f571059cb654244b23ccff05e444605",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "65",
+        "Tên Bưu cục": "Ninh Hòa",
+        "Họ và tên người sử dụng": "Võ Thị Hồng Nhung",
+        "Mã HRM": "00038589",
+        "Bộ phận / Phòng ban": "Kế toán",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "BAU",
+        "Loại máy": "Desktop",
+        "Hãng": "To be filled by O.E.M.",
+        "Model": "To be filled by O.E.M.",
+        "Năm sản xuất": "",
+        "Serial Number": "To be filled by O.E.M.",
+        "CPU": "Intel(R) Core(TM) i3-3220 CPU @ 3.30GHz",
+        "RAM": "7,9 GB",
+        "Ổ cứng": "263 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.19043",
+        "Office": "Microsoft Office 64-bit Components 2016",
+        "Antivirus": "Windows Defender",
+        "IP Address": "10.57.131.14",
+        "MAC Address": "00:E0:23:58:11:77"
+      },
+      "attachments": [
+        {
+          "type": "photocopier",
+          "name": "Canon iR2525/2530 UFRII LT",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-06-18T01:37:45",
+      "updatedAt": "2026-06-18T01:37:45"
     }
   ]
 }
