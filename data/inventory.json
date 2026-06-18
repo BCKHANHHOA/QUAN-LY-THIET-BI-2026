@@ -966,6 +966,37 @@
       "attachments": [],
       "createdAt": "2026-06-18T01:44:08",
       "updatedAt": "2026-06-18T01:44:08"
+    },
+    {
+      "id": "a1305af2f6c04eb8b7f757ad68a79b67",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "65",
+        "Tên Bưu cục": "Ninh Hòa",
+        "Họ và tên người sử dụng": "Nguyễn Thị Mỹ Phương",
+        "Mã HRM": "00106920",
+        "Bộ phận / Phòng ban": "Kế toán",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "MYPHUONG",
+        "Loại máy": "Desktop",
+        "Hãng": "Dell Inc.",
+        "Model": "OptiPlex 5060",
+        "Năm sản xuất": "",
+        "Serial Number": "9ZPW8T2",
+        "CPU": "Intel(R) Core(TM) i3-8100T CPU @ 3.10GHz",
+        "RAM": "3,8 GB",
+        "Ổ cứng": "477 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.19043",
+        "Office": "Microsoft Office 64-bit Components 2016",
+        "Antivirus": "Windows Defender",
+        "IP Address": "10.57.131.18",
+        "MAC Address": "B8:85:84:B1:24:B5"
+      },
+      "attachments": [],
+      "createdAt": "2026-06-18T01:44:19",
+      "updatedAt": "2026-06-18T01:44:19"
     }
   ]
 }
