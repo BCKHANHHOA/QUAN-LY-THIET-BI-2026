@@ -3701,6 +3701,48 @@
       "attachments": [],
       "createdAt": "2026-06-18T07:54:57",
       "updatedAt": "2026-06-18T07:54:57"
+    },
+    {
+      "id": "ee1088c4543348f098bac9a86353c2b2",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "653300",
+        "Tên Bưu cục": "Ninh Giang",
+        "Họ và tên người sử dụng": "Phạm Thị Bích Chi",
+        "Mã HRM": "00118348",
+        "Bộ phận / Phòng ban": "BC",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "KHA-NH-NGIANG",
+        "Loại máy": "Desktop",
+        "Hãng": "Dell Inc.",
+        "Model": "OptiPlex 3040",
+        "Năm sản xuất": "",
+        "Serial Number": "658J8F2",
+        "CPU": "Intel(R) Core(TM) i3-6100T CPU @ 3.20GHz",
+        "RAM": "3.9 GB",
+        "Ổ cứng": "226 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.19043",
+        "Office": "Microsoft Office 64-bit Components 2016",
+        "Antivirus": "Windows Defender, FortiClient AntiVirus, Kaspersky Endpoint Security for Windows",
+        "IP Address": "192.168.0.148",
+        "MAC Address": "18:66:DA:28:F7:FA"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "HP LaserJet 400 M401 PCL 6",
+          "serial": ""
+        },
+        {
+          "type": "barcode_reader",
+          "name": "1D Barcode Scanner HID KBW",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-06-18T07:55:06",
+      "updatedAt": "2026-06-18T07:55:06"
     }
   ]
 }
