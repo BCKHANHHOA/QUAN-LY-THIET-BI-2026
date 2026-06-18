@@ -2514,6 +2514,48 @@
       ],
       "createdAt": "2026-06-18T04:04:51",
       "updatedAt": "2026-06-18T04:04:51"
+    },
+    {
+      "id": "54a6c675ee964bdba7d6becf59f4f21c",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "653160",
+        "Tên Bưu cục": "Ninh Tây",
+        "Họ và tên người sử dụng": "Trần Thị Thắm",
+        "Mã HRM": "00253322",
+        "Bộ phận / Phòng ban": "VHX",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "KHA-NH-NINHTAY",
+        "Loại máy": "Desktop",
+        "Hãng": "To be filled by O.E.M.",
+        "Model": "To be filled by O.E.M.",
+        "Năm sản xuất": "",
+        "Serial Number": "To be filled by O.E.M.",
+        "CPU": "Intel(R) Core(TM) i3-3220 CPU @ 3.30GHz",
+        "RAM": "3.9 GB",
+        "Ổ cứng": "113 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.19043",
+        "Office": "Microsoft Office 64-bit Components 2016",
+        "Antivirus": "Windows Defender, FortiClient AntiVirus",
+        "IP Address": "192.168.1.3",
+        "MAC Address": "0A:E0:AF:BE:34:27"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "Canon LBP2900",
+          "serial": ""
+        },
+        {
+          "type": "barcode_reader",
+          "name": "1D Barcode Scanner HID KBW",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-06-18T04:05:46",
+      "updatedAt": "2026-06-18T04:05:46"
     }
   ]
 }
