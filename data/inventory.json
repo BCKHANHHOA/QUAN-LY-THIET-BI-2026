@@ -193,6 +193,48 @@
       ],
       "createdAt": "2026-06-18T01:03:41",
       "updatedAt": "2026-06-18T01:03:41"
+    },
+    {
+      "id": "9d0d7266eae247e483a1ed3344a12091",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "652900",
+        "Tên Bưu cục": "Ninh Hòa",
+        "Họ và tên người sử dụng": "Nguyễn Thị Thu Nghi",
+        "Mã HRM": "00109206",
+        "Bộ phận / Phòng ban": "GDV",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "GDTT",
+        "Loại máy": "Desktop",
+        "Hãng": "Dell Inc.",
+        "Model": "OptiPlex 5060",
+        "Năm sản xuất": "",
+        "Serial Number": "B0SM8T2",
+        "CPU": "Intel(R) Core(TM) i3-8100T CPU @ 3.10GHz",
+        "RAM": "11.8 GB",
+        "Ổ cứng": "479 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.19043",
+        "Office": "Microsoft Office 64-bit Components 2016",
+        "Antivirus": "Windows Defender, FortiClient AntiVirus",
+        "IP Address": "10.57.131.7",
+        "MAC Address": "B8:85:84:AF:3A:DA"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "Canon LBP2900",
+          "serial": ""
+        },
+        {
+          "type": "barcode_reader",
+          "name": "Symbol Bar Code Scanner",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-06-18T01:08:26",
+      "updatedAt": "2026-06-18T01:08:26"
     }
   ]
 }
