@@ -235,6 +235,53 @@
       ],
       "createdAt": "2026-06-18T01:08:26",
       "updatedAt": "2026-06-18T01:08:26"
+    },
+    {
+      "id": "0bc7c7dc76464d9689f378786f88bd0d",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "65",
+        "Tên Bưu cục": "Ninh Hòa",
+        "Họ và tên người sử dụng": "Nguyễn Ngọc Hồng Phượng",
+        "Mã HRM": "00089572",
+        "Bộ phận / Phòng ban": "GDV",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "KHA-NH-HCC",
+        "Loại máy": "Desktop",
+        "Hãng": "To be filled by O.E.M.",
+        "Model": "To be filled by O.E.M.",
+        "Năm sản xuất": "",
+        "Serial Number": "To be filled by O.E.M.",
+        "CPU": "Intel(R) Celeron(R) CPU G1610 @ 2.60GHz",
+        "RAM": "3.9 GB",
+        "Ổ cứng": "238 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.19043",
+        "Office": "Microsoft Office 64-bit Components 2016",
+        "Antivirus": "Windows Defender, Kaspersky Endpoint Security for Windows",
+        "IP Address": "10.57.131.4",
+        "MAC Address": "00:E0:1D:24:B0:52"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "Canon LBP2900",
+          "serial": ""
+        },
+        {
+          "type": "thermal_printer",
+          "name": "Zebra ZD620 (203 dpi) - ZPL",
+          "serial": ""
+        },
+        {
+          "type": "barcode_reader",
+          "name": "Symbol Bar Code Scanner",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-06-18T01:17:11",
+      "updatedAt": "2026-06-18T01:17:11"
     }
   ]
 }
