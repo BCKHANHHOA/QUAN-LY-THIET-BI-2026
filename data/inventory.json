@@ -3241,6 +3241,48 @@
       "attachments": [],
       "createdAt": "2026-06-18T07:34:37",
       "updatedAt": "2026-06-18T07:34:37"
+    },
+    {
+      "id": "a75bad29de0849ae88f45adde1d346a1",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "653240",
+        "Tên Bưu cục": "Ninh Tân",
+        "Họ và tên người sử dụng": "Hồ Thị Kim Cúc",
+        "Mã HRM": "00038651",
+        "Bộ phận / Phòng ban": "VHX",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "KHA-NH-NINHTAN",
+        "Loại máy": "Desktop",
+        "Hãng": "To be filled by O.E.M.",
+        "Model": "To be filled by O.E.M.",
+        "Năm sản xuất": "",
+        "Serial Number": "To be filled by O.E.M.",
+        "CPU": "Intel(R) Core(TM) i3-3240 CPU @ 3.40GHz",
+        "RAM": "1.9 GB",
+        "Ổ cứng": "240 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.19044",
+        "Office": "Microsoft Office Professional Plus 2021 - en-us",
+        "Antivirus": "Windows Defender, FortiClient AntiVirus, Kaspersky Endpoint Security for Windows",
+        "IP Address": "192.168.1.2",
+        "MAC Address": "00:E0:4C:36:38:71"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "HP LaserJet M203dn UPD PCL 6",
+          "serial": ""
+        },
+        {
+          "type": "barcode_reader",
+          "name": "1D Barcode Scanner HID KBW",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-06-18T07:36:46",
+      "updatedAt": "2026-06-18T07:36:46"
     }
   ]
 }
