@@ -282,6 +282,43 @@
       ],
       "createdAt": "2026-06-18T01:17:11",
       "updatedAt": "2026-06-18T01:17:11"
+    },
+    {
+      "id": "2fe9fa8b3a5c43babbe5024e47a3413f",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "65",
+        "Tên Bưu cục": "Bưu điện tỉnh Khánh Hòa",
+        "Họ và tên người sử dụng": "Trương Ngọc Hải",
+        "Mã HRM": "00050294",
+        "Bộ phận / Phòng ban": "Phòng Tài chính kế hoạch",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "KHA-KTT-HAI",
+        "Loại máy": "Desktop",
+        "Hãng": "Gigabyte Technology Co., Ltd.",
+        "Model": "H81M-DS2",
+        "Năm sản xuất": "",
+        "Serial Number": "To be filled by O.E.M.",
+        "CPU": "Intel(R) Pentium(R) CPU G3260 @ 3.30GHz",
+        "RAM": "7,9 GB",
+        "Ổ cứng": "223 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.19045",
+        "Office": "Microsoft Office Office 64-bit Components 2010",
+        "Antivirus": "Windows Defender",
+        "IP Address": "10.57.137.67",
+        "MAC Address": "1C:1B:0D:FA:CB:6A"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "Canon LPB2900",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-06-18T01:17:52",
+      "updatedAt": "2026-06-18T01:17:52"
     }
   ]
 }
