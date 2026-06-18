@@ -2351,6 +2351,48 @@
       ],
       "createdAt": "2026-06-18T03:45:00",
       "updatedAt": "2026-06-18T03:45:00"
+    },
+    {
+      "id": "e2527a01158849f5b13a8f00cc7cbb6e",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "6517",
+        "Tên Xã": "XÃ ĐẠI LÃNH",
+        "Mã Bưu cục": "653580",
+        "Tên Bưu cục": "BƯU CỤC VẠN THỌ",
+        "Họ và tên người sử dụng": "PHẠM THỊ TUYẾT",
+        "Mã HRM": "00105011",
+        "Bộ phận / Phòng ban": "QUẦY GIAO DỊCH",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "DESKTOP-SLFSFRB",
+        "Loại máy": "Desktop",
+        "Hãng": "HP",
+        "Model": "HP ProDesk 600 G5 Desktop Mini",
+        "Năm sản xuất": "",
+        "Serial Number": "8CC011338V",
+        "CPU": "Intel(R) Core(TM) i3-9100T CPU @ 3.10GHz",
+        "RAM": "3.8 GB",
+        "Ổ cứng": "226 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.19044",
+        "Office": "Microsoft Office LTSC Professional Plus 2021 - en-us",
+        "Antivirus": "Windows Defender, FortiClient AntiVirus",
+        "IP Address": "10.57.132.242",
+        "MAC Address": "38:22:E2:18:89:06"
+      },
+      "attachments": [
+        {
+          "type": "thermal_printer",
+          "name": "ZEBRA ZD60",
+          "serial": "D3J204202773"
+        },
+        {
+          "type": "barcode_reader",
+          "name": "HONEYWELL",
+          "serial": "17074B420D"
+        }
+      ],
+      "createdAt": "2026-06-18T03:46:53",
+      "updatedAt": "2026-06-18T03:46:53"
     }
   ]
 }
