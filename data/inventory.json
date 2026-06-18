@@ -2918,6 +2918,37 @@
       ],
       "createdAt": "2026-06-18T07:12:35",
       "updatedAt": "2026-06-18T07:12:35"
+    },
+    {
+      "id": "309b05e25c5e44e68693260a499108da",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "65",
+        "Tên Bưu cục": "Phòng TCHC",
+        "Họ và tên người sử dụng": "Nguyễn Thị Kim Trâm",
+        "Mã HRM": "00038466",
+        "Bộ phận / Phòng ban": "Phòng TCHC",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "WINDOWS-19RB5F4",
+        "Loại máy": "Desktop",
+        "Hãng": "Dell Inc.",
+        "Model": "OptiPlex 5060",
+        "Năm sản xuất": "",
+        "Serial Number": "G8J4TR2",
+        "CPU": "Intel(R) Core(TM) i3-8100T CPU @ 3.10GHz",
+        "RAM": "3.8 GB",
+        "Ổ cứng": "238 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Enterprise LTSC 10.0.17763",
+        "Office": "Microsoft Office Professional Plus 2016",
+        "Antivirus": "Kaspersky Endpoint Security for Windows",
+        "IP Address": "10.57.137.27",
+        "MAC Address": "B8:85:84:A8:D6:83"
+      },
+      "attachments": [],
+      "createdAt": "2026-06-18T07:18:12",
+      "updatedAt": "2026-06-18T07:18:12"
     }
   ]
 }
