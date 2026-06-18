@@ -4162,6 +4162,53 @@
       ],
       "createdAt": "2026-06-18T09:24:46",
       "updatedAt": "2026-06-18T09:24:46"
+    },
+    {
+      "id": "5e394e24ec734fa0a379a8d6569d7ee5",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "653720",
+        "Tên Bưu cục": "NGA BA THANH",
+        "Họ và tên người sử dụng": "HÀNG THỊ NGỌC THÙY",
+        "Mã HRM": "00038678",
+        "Bộ phận / Phòng ban": "giao dịch viên",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "NGABATHANH",
+        "Loại máy": "Desktop",
+        "Hãng": "Dell Inc.",
+        "Model": "OptiPlex 5060",
+        "Năm sản xuất": "",
+        "Serial Number": "G695TR2",
+        "CPU": "Intel(R) Core(TM) i3-8100T CPU @ 3.10GHz",
+        "RAM": "3.8 GB",
+        "Ổ cứng": "114 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.19045",
+        "Office": "Microsoft Office Professional Plus 2016",
+        "Antivirus": "Windows Defender",
+        "IP Address": "10.57.135.197",
+        "MAC Address": "B8:85:84:AB:1C:8F"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "CANON",
+          "serial": ""
+        },
+        {
+          "type": "barcode_reader",
+          "name": "MOTOROLA",
+          "serial": ""
+        },
+        {
+          "type": "ups",
+          "name": "DELL",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-06-18T09:30:49",
+      "updatedAt": "2026-06-18T09:30:49"
     }
   ]
 }
