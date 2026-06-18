@@ -418,6 +418,43 @@
       "attachments": [],
       "createdAt": "2026-06-18T01:24:20",
       "updatedAt": "2026-06-18T01:24:20"
+    },
+    {
+      "id": "abeba8dc824441408a0a0243cf8fd436",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "6535",
+        "Tên Xã": "BCVH Vạn Ninh",
+        "Mã Bưu cục": "653680",
+        "Tên Bưu cục": "BCP Vạn Ninh",
+        "Họ và tên người sử dụng": "Giáp Văn Tự",
+        "Mã HRM": "00038566",
+        "Bộ phận / Phòng ban": "BCVH Vạn Ninh",
+        "Mã vật tư": "CC207230",
+        "Tên máy (Hostname)": "KH-VN-BCP-TU",
+        "Loại máy": "Desktop",
+        "Hãng": "HP",
+        "Model": "ProDisplay P191",
+        "Năm sản xuất": "",
+        "Serial Number": "",
+        "CPU": "Intel(R) Pentium(R) CPU G4400 @ 3.30GHz",
+        "RAM": "4GB",
+        "Ổ cứng": "237GB",
+        "Hệ điều hành": "Windows 10 Pro",
+        "Office": "Office 2021",
+        "Antivirus": "",
+        "IP Address": "10.57.132.23",
+        "MAC Address": "E0-D5-5E-16-93-D6"
+      },
+      "attachments": [
+        {
+          "type": "barcode_reader",
+          "name": "ZEBRA",
+          "serial": "DS22"
+        }
+      ],
+      "createdAt": "2026-06-18T01:15:44",
+      "updatedAt": "2026-06-18T01:15:44"
     }
   ]
 }
