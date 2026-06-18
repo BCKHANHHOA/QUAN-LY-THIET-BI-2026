@@ -3524,6 +3524,37 @@
       ],
       "createdAt": "2026-06-18T07:45:50",
       "updatedAt": "2026-06-18T07:45:50"
+    },
+    {
+      "id": "7af96a6183854c158654e770498f8c50",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "65",
+        "Tên Bưu cục": "Phòng TCHC",
+        "Họ và tên người sử dụng": "Dương Đình Hoan",
+        "Mã HRM": "00038819",
+        "Bộ phận / Phòng ban": "Phòng TCHC",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "WINDOWS-PC",
+        "Loại máy": "Desktop",
+        "Hãng": "Gigabyte Technology Co., Ltd.",
+        "Model": "H410M H V3",
+        "Năm sản xuất": "",
+        "Serial Number": "Default string",
+        "CPU": "Intel(R) Pentium(R) Gold G6405 CPU @ 4.10GHz",
+        "RAM": "7.8 GB",
+        "Ổ cứng": "632 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.19045",
+        "Office": "Microsoft 365 Apps for enterprise - en-us",
+        "Antivirus": "Windows Defender",
+        "IP Address": "10.57.137.88",
+        "MAC Address": "D8:5E:D3:94:67:00"
+      },
+      "attachments": [],
+      "createdAt": "2026-06-18T07:47:44",
+      "updatedAt": "2026-06-18T07:47:44"
     }
   ]
 }
