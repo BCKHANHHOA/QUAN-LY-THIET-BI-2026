@@ -610,6 +610,37 @@
       "attachments": [],
       "createdAt": "2026-06-18T01:29:34",
       "updatedAt": "2026-06-18T01:29:34"
+    },
+    {
+      "id": "317a80706f2c477abf61e249813bcf28",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "65",
+        "Tên Bưu cục": "Bưu điện tỉnh Khánh Hoà",
+        "Họ và tên người sử dụng": "Đặng Thị Lan Anh",
+        "Mã HRM": "00038429",
+        "Bộ phận / Phòng ban": "Phòng Tài chính Kế hoạch",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "WINDOWS-PC",
+        "Loại máy": "Desktop",
+        "Hãng": "Micro-Star International Co., Ltd.",
+        "Model": "MS-7C09",
+        "Năm sản xuất": "",
+        "Serial Number": "Default string",
+        "CPU": "Intel(R) Pentium(R) Gold G5400 CPU @ 3.70GHz",
+        "RAM": "3.9 GB",
+        "Ổ cứng": "238 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.19045",
+        "Office": "Microsoft Office Professional Plus 2019 - en-us",
+        "Antivirus": "Windows Defender",
+        "IP Address": "10.57.129.64",
+        "MAC Address": "2C:F0:5D:07:20:26"
+      },
+      "attachments": [],
+      "createdAt": "2026-06-18T01:31:00",
+      "updatedAt": "2026-06-18T01:31:00"
     }
   ]
 }
