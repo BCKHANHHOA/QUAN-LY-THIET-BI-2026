@@ -1034,6 +1034,37 @@
       ],
       "createdAt": "2026-06-18T01:48:16",
       "updatedAt": "2026-06-18T01:48:16"
+    },
+    {
+      "id": "aa14d6423f534ecf86d1d77aec718fb1",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "65",
+        "Tên Bưu cục": "Bưu điện tỉnh Khánh Hòa",
+        "Họ và tên người sử dụng": "Nguyễn Thị Phương Uyên",
+        "Mã HRM": "056184003153",
+        "Bộ phận / Phòng ban": "Phòng tài chính kế hoạch",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "KHA-NT-P-UYEN",
+        "Loại máy": "Desktop",
+        "Hãng": "Gigabyte Technology Co., Ltd.",
+        "Model": "H110M-DS2",
+        "Năm sản xuất": "",
+        "Serial Number": "Default string",
+        "CPU": "Intel(R) Celeron(R) CPU G3930 @ 2.90GHz",
+        "RAM": "3.9 GB",
+        "Ổ cứng": "111 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.14393",
+        "Office": "Microsoft Office 64-bit Components 2016",
+        "Antivirus": "Windows Defender, FortiClient AntiVirus, Kaspersky Endpoint Security for Windows",
+        "IP Address": "10.57.137.60",
+        "MAC Address": "E0:D5:5E:75:39:0C"
+      },
+      "attachments": [],
+      "createdAt": "2026-06-18T01:49:32",
+      "updatedAt": "2026-06-18T01:49:32"
     }
   ]
 }
