@@ -1722,6 +1722,37 @@
       ],
       "createdAt": "2026-06-18T03:04:47",
       "updatedAt": "2026-06-18T03:04:47"
+    },
+    {
+      "id": "37107cd7bb4944cab8ad40d4e6d0ec45",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "65",
+        "Tên Bưu cục": "Bưu điện tỉnh Khánh Hòa",
+        "Họ và tên người sử dụng": "Lý Thanh Huệ",
+        "Mã HRM": "00243593",
+        "Bộ phận / Phòng ban": "Phòng tài chính kế hoạch",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "HUE_KETOAN",
+        "Loại máy": "Desktop",
+        "Hãng": "Dell Inc.",
+        "Model": "OptiPlex 5060",
+        "Năm sản xuất": "",
+        "Serial Number": "G7XZSR2",
+        "CPU": "Intel(R) Core(TM) i3-8100T CPU @ 3.10GHz",
+        "RAM": "3.8 GB",
+        "Ổ cứng": "487 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.19042",
+        "Office": "Microsoft Office Professional Plus 2016",
+        "Antivirus": "Windows Defender",
+        "IP Address": "10.57.134.59",
+        "MAC Address": "B8:85:84:A7:32:C9"
+      },
+      "attachments": [],
+      "createdAt": "2026-06-18T03:07:35",
+      "updatedAt": "2026-06-18T03:07:35"
     }
   ]
 }
