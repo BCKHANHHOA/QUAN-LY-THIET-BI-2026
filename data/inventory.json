@@ -1402,6 +1402,43 @@
       "attachments": [],
       "createdAt": "2026-06-18T02:24:39",
       "updatedAt": "2026-06-18T02:24:39"
+    },
+    {
+      "id": "512950fd2a9f4185ae05dce1ebf9f856",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "6520",
+        "Tên Xã": "BDX Vạn Ninh",
+        "Mã Bưu cục": "653500",
+        "Tên Bưu cục": "Bưu cục Vạn Ninh",
+        "Họ và tên người sử dụng": "Trương Thị Hoa",
+        "Mã HRM": "00038568",
+        "Bộ phận / Phòng ban": "BHCĐ",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "KHA-VN-KDBH-HOA",
+        "Loại máy": "Desktop",
+        "Hãng": "Dell Inc.",
+        "Model": "OptiPlex 5060",
+        "Năm sản xuất": "",
+        "Serial Number": "9XGP8T2",
+        "CPU": "Intel(R) Core(TM) i3-8100T CPU @ 3.10GHz",
+        "RAM": "3.8 GB",
+        "Ổ cứng": "112 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.19043",
+        "Office": "Microsoft Office 64-bit Components 2016",
+        "Antivirus": "Windows Defender, Kaspersky Endpoint Security for Windows",
+        "IP Address": "10.57.132.11",
+        "MAC Address": "B8:85:84:B1:20:CC"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "Laserjet M1132mfp",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-06-18T02:29:13",
+      "updatedAt": "2026-06-18T02:29:13"
     }
   ]
 }
