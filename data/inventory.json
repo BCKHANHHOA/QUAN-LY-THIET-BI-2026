@@ -1439,6 +1439,37 @@
       ],
       "createdAt": "2026-06-18T02:29:13",
       "updatedAt": "2026-06-18T02:29:13"
+    },
+    {
+      "id": "66576e9897414afc8aa034c5e1b610a3",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "65",
+        "Tên Bưu cục": "Ninh Hòa",
+        "Họ và tên người sử dụng": "Nguyễn Thị Quế Phương",
+        "Mã HRM": "00038591",
+        "Bộ phận / Phòng ban": "Quản lý",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "QUEPHUONG",
+        "Loại máy": "Desktop",
+        "Hãng": "Dell Inc.",
+        "Model": "OptiPlex 5060",
+        "Năm sản xuất": "",
+        "Serial Number": "G69YSR2",
+        "CPU": "Intel(R) Core(TM) i3-8100T CPU @ 3.10GHz",
+        "RAM": "3.8 GB",
+        "Ổ cứng": "224 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Enterprise LTSC 10.0.17763",
+        "Office": "Microsoft Office 64-bit Components 2016",
+        "Antivirus": "Windows Defender",
+        "IP Address": "10.57.131.19",
+        "MAC Address": "00:4E:01:C2:22:19"
+      },
+      "attachments": [],
+      "createdAt": "2026-06-18T02:32:00",
+      "updatedAt": "2026-06-18T02:32:00"
     }
   ]
 }
