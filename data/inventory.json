@@ -455,6 +455,37 @@
       ],
       "createdAt": "2026-06-18T01:15:44",
       "updatedAt": "2026-06-18T01:15:44"
+    },
+    {
+      "id": "66ac791f538041239e650d2a4ed0fdbc",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "65",
+        "Tên Bưu cục": "Bưu điện Tỉnh Khánh Hòa",
+        "Họ và tên người sử dụng": "Trịnh Thu Hà",
+        "Mã HRM": "00014861",
+        "Bộ phận / Phòng ban": "Phòng Tài Chính Kế Hoạch",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "KHA-THU-HA",
+        "Loại máy": "Desktop",
+        "Hãng": "Gigabyte Technology Co., Ltd.",
+        "Model": "H410M H",
+        "Năm sản xuất": "",
+        "Serial Number": "Default string",
+        "CPU": "Intel(R) Pentium(R) Gold G6400 CPU @ 4.00GHz",
+        "RAM": "11.9 GB",
+        "Ổ cứng": "126 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.19045",
+        "Office": "Microsoft 365 Apps for enterprise - en-us",
+        "Antivirus": "Windows Defender, Kaspersky Endpoint Security for Windows",
+        "IP Address": "10.57.129.78",
+        "MAC Address": "18:C0:4D:B2:D4:60"
+      },
+      "attachments": [],
+      "createdAt": "2026-06-18T01:26:42",
+      "updatedAt": "2026-06-18T01:26:42"
     }
   ]
 }
