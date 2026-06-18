@@ -3212,35 +3212,35 @@
       "updatedAt": "2026-06-18T07:32:55"
     },
     {
-      "id": "f0a8549ba26c40ffa27b6669f47dd1b1",
+      "id": "e910d568964f4277965c0b2e3fa83c3e",
       "category": "3. Máy Tính",
       "fields": {
         "Mã BĐ Xã": "",
         "Tên Xã": "",
-        "Mã Bưu cục": "65",
-        "Tên Bưu cục": "Phòng TCHC",
-        "Họ và tên người sử dụng": "Nguyễn Như Vũ",
-        "Mã HRM": "00038467",
-        "Bộ phận / Phòng ban": "Phòng TCHC",
+        "Mã Bưu cục": "",
+        "Tên Bưu cục": "",
+        "Họ và tên người sử dụng": "",
+        "Mã HRM": "",
+        "Bộ phận / Phòng ban": "",
         "Mã vật tư": "",
-        "Tên máy (Hostname)": "KHA-TCHC-VU",
-        "Loại máy": "Desktop",
-        "Hãng": "Gigabyte Technology Co., Ltd.",
-        "Model": "H310M S2H 2.0",
+        "Tên máy (Hostname)": "",
+        "Loại máy": "",
+        "Hãng": "",
+        "Model": "",
         "Năm sản xuất": "",
-        "Serial Number": "Default string",
-        "CPU": "Intel(R) Pentium(R) Gold G5400 CPU @ 3.70GHz",
-        "RAM": "7.9 GB",
-        "Ổ cứng": "350 GB",
-        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.19045",
-        "Office": "Microsoft Office Professional Plus 2019 - en-us",
-        "Antivirus": "Windows Defender",
-        "IP Address": "10.57.137.4",
-        "MAC Address": "B4:2E:99:52:89:06"
+        "Serial Number": "",
+        "CPU": "",
+        "RAM": "",
+        "Ổ cứng": "",
+        "Hệ điều hành": "",
+        "Office": "",
+        "Antivirus": "",
+        "IP Address": "",
+        "MAC Address": ""
       },
       "attachments": [],
-      "createdAt": "2026-06-18T07:34:35",
-      "updatedAt": "2026-06-18T07:34:35"
+      "createdAt": "2026-06-18T07:34:37",
+      "updatedAt": "2026-06-18T07:34:37"
     }
   ]
 }
