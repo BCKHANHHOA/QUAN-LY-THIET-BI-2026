@@ -2225,6 +2225,53 @@
       "attachments": [],
       "createdAt": "2026-06-18T03:29:18",
       "updatedAt": "2026-06-18T03:29:18"
+    },
+    {
+      "id": "69e2c15e658a4cafad09decf18095daa",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "6520",
+        "Tên Xã": "Bưu điện xã Vạn Ninh",
+        "Mã Bưu cục": "653500",
+        "Tên Bưu cục": "Bưu cục Vạn Ninh",
+        "Họ và tên người sử dụng": "Huỳnh Thụy Thúy Tiên",
+        "Mã HRM": "00038572",
+        "Bộ phận / Phòng ban": "Giao dịch viên",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "KHA-VN-GDTT-01",
+        "Loại máy": "Desktop",
+        "Hãng": "Dell Inc.",
+        "Model": "OptiPlex 5060",
+        "Năm sản xuất": "",
+        "Serial Number": "G6C4TR2",
+        "CPU": "Intel(R) Core(TM) i3-8100T CPU @ 3.10GHz",
+        "RAM": "7.8 GB",
+        "Ổ cứng": "240 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.19044",
+        "Office": "Microsoft Office Professional Plus 2016 - en-us",
+        "Antivirus": "Windows Defender, FortiClient AntiVirus",
+        "IP Address": "10.57.132.10",
+        "MAC Address": "B8:85:84:A8:E2:79"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "Canon 2900",
+          "serial": ""
+        },
+        {
+          "type": "thermal_printer",
+          "name": "Zebra ZD620",
+          "serial": ""
+        },
+        {
+          "type": "barcode_reader",
+          "name": "Zebra DS22",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-06-18T03:30:33",
+      "updatedAt": "2026-06-18T03:30:33"
     }
   ]
 }
