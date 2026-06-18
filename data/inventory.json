@@ -3048,6 +3048,37 @@
       "attachments": [],
       "createdAt": "2026-06-18T07:20:40",
       "updatedAt": "2026-06-18T07:20:40"
+    },
+    {
+      "id": "50c64c04fa134f188eeb4dd7d24f8c7d",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "65",
+        "Tên Bưu cục": "Phòng TCHC",
+        "Họ và tên người sử dụng": "Phùng Thị Hội",
+        "Mã HRM": "00049005",
+        "Bộ phận / Phòng ban": "Phòng TCHC",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "NTN-VPT-TCHC01",
+        "Loại máy": "Desktop",
+        "Hãng": "Gigabyte Technology Co., Ltd.",
+        "Model": "H510M S2H",
+        "Năm sản xuất": "",
+        "Serial Number": "Default string",
+        "CPU": "Intel(R) Pentium(R) Gold G6405 CPU @ 4.10GHz",
+        "RAM": "3.8 GB",
+        "Ổ cứng": "223 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.19042",
+        "Office": "Microsoft Office Professional Plus 2019 - en-us",
+        "Antivirus": "Windows Defender, Kaspersky Endpoint Security for Windows",
+        "IP Address": "192.168.1.8",
+        "MAC Address": "D0:37:45:F2:BA:01"
+      },
+      "attachments": [],
+      "createdAt": "2026-06-18T07:22:12",
+      "updatedAt": "2026-06-18T07:22:12"
     }
   ]
 }
