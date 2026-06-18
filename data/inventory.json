@@ -641,6 +641,53 @@
       "attachments": [],
       "createdAt": "2026-06-18T01:31:00",
       "updatedAt": "2026-06-18T01:31:00"
+    },
+    {
+      "id": "2d0bc14791574bf9b547c934003d31b9",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "6535",
+        "Tên Xã": "BCVH Vạn Ninh",
+        "Mã Bưu cục": "653510",
+        "Tên Bưu cục": "KT Vạn Ninh",
+        "Họ và tên người sử dụng": "Phi Quốc Trường",
+        "Mã HRM": "00252114",
+        "Bộ phận / Phòng ban": "BCVH Vạn Ninh",
+        "Mã vật tư": "CC207230",
+        "Tên máy (Hostname)": "AdminTNH2021731",
+        "Loại máy": "Desktop",
+        "Hãng": "HP",
+        "Model": "HP V194 MONDITOR",
+        "Năm sản xuất": "",
+        "Serial Number": "",
+        "CPU": "ntel(R) Core(TM) i3-4160T CPU @ 3.10GHz   3.10 GHz",
+        "RAM": "4GB",
+        "Ổ cứng": "237GB",
+        "Hệ điều hành": "Windows 10 Pro",
+        "Office": "Office 2007",
+        "Antivirus": "",
+        "IP Address": "10.57.132.19",
+        "MAC Address": "64-00-6A-06-27-BC"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "Canon",
+          "serial": "L11121E"
+        },
+        {
+          "type": "thermal_printer",
+          "name": "Xprinter",
+          "serial": "XP-470B"
+        },
+        {
+          "type": "barcode_reader",
+          "name": "DATAMAX",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-06-18T01:22:14",
+      "updatedAt": "2026-06-18T01:22:14"
     }
   ]
 }
