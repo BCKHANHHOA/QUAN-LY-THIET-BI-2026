@@ -1286,6 +1286,53 @@
       ],
       "createdAt": "2026-06-18T02:21:39",
       "updatedAt": "2026-06-18T02:21:39"
+    },
+    {
+      "id": "5560322933db4fd7a8d2c0af897169b7",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "653640",
+        "Tên Bưu cục": "Xuân Tự",
+        "Họ và tên người sử dụng": "Phạm Hữu Thịnh",
+        "Mã HRM": "00105354",
+        "Bộ phận / Phòng ban": "Khối Sản xuất",
+        "Mã vật tư": "CC207230",
+        "Tên máy (Hostname)": "DESKTOP-HF2OT92",
+        "Loại máy": "Desktop",
+        "Hãng": "Dell Inc.",
+        "Model": "OptiPlex 5060",
+        "Năm sản xuất": "",
+        "Serial Number": "9Z7Q8T2",
+        "CPU": "Intel(R) Core(TM) i3-8100T CPU @ 3.10GHz",
+        "RAM": "3.8 GB",
+        "Ổ cứng": "241 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.19045",
+        "Office": "Microsoft 365 Apps for enterprise - en-us",
+        "Antivirus": "Windows Defender, FortiClient AntiVirus",
+        "IP Address": "10.57.132.194",
+        "MAC Address": "B8:85:84:AF:45:71"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "THERMAL BARCODE PRINTER A6",
+          "serial": "24002806"
+        },
+        {
+          "type": "photocopier",
+          "name": "Canon 2900",
+          "serial": "L11121E"
+        },
+        {
+          "type": "barcode_reader",
+          "name": "ZEBRA DS22",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-06-18T02:22:10",
+      "updatedAt": "2026-06-18T02:22:10"
     }
   ]
 }
