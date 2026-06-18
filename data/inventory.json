@@ -3628,6 +3628,48 @@
       ],
       "createdAt": "2026-06-18T07:49:06",
       "updatedAt": "2026-06-18T07:49:06"
+    },
+    {
+      "id": "7d18819f13a24ec4a6c800260c24767e",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "653260",
+        "Tên Bưu cục": "Ninh Lộc",
+        "Họ và tên người sử dụng": "Nguyễn Gia Lăng",
+        "Mã HRM": "00038622",
+        "Bộ phận / Phòng ban": "VHX",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "NINHLOC",
+        "Loại máy": "Desktop",
+        "Hãng": "Winnfox",
+        "Model": "H61",
+        "Năm sản xuất": "",
+        "Serial Number": "To be filled by O.E.M.",
+        "CPU": "Intel(R) Pentium(R) CPU G2030 @ 3.00GHz",
+        "RAM": "3.9 GB",
+        "Ổ cứng": "240 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.19045",
+        "Office": "Microsoft Office 64-bit Components 2016",
+        "Antivirus": "Windows Defender, FortiClient AntiVirus",
+        "IP Address": "192.168.1.6",
+        "MAC Address": "00:E0:9B:37:C6:92"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "Canon LBP2900",
+          "serial": ""
+        },
+        {
+          "type": "barcode_reader",
+          "name": "1D Barcode Scanner HID KBW",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-06-18T07:51:29",
+      "updatedAt": "2026-06-18T07:51:29"
     }
   ]
 }
