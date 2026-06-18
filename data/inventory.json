@@ -1249,6 +1249,43 @@
       ],
       "createdAt": "2026-06-18T02:17:14",
       "updatedAt": "2026-06-18T02:17:14"
+    },
+    {
+      "id": "ee47c401b19c42e8b0922d9487ff6c95",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "65",
+        "Tên Bưu cục": "Bưu điện tỉnh Khánh Hòa",
+        "Họ và tên người sử dụng": "Huỳnh Thị Bảo Trâm",
+        "Mã HRM": "00049185",
+        "Bộ phận / Phòng ban": "Phòng Tài chính kế hoạch",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "TQNH",
+        "Loại máy": "Desktop",
+        "Hãng": "",
+        "Model": "",
+        "Năm sản xuất": "",
+        "Serial Number": "",
+        "CPU": "Intel(R) Core(TM)2 Duo CPU     E7400  @ 2.80GHz",
+        "RAM": "3 GB",
+        "Ổ cứng": "223 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.19042",
+        "Office": "Microsoft Office Professional Plus 2019 - en-us",
+        "Antivirus": "Windows Defender",
+        "IP Address": "10.63.41.78",
+        "MAC Address": "00:1C:C0:C0:2D:85"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "Canon LBP2900",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-06-18T02:21:39",
+      "updatedAt": "2026-06-18T02:21:39"
     }
   ]
 }
