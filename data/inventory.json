@@ -2598,6 +2598,48 @@
       ],
       "createdAt": "2026-06-18T04:29:18",
       "updatedAt": "2026-06-18T04:29:18"
+    },
+    {
+      "id": "7d43aa4365f64c2caa8c73a72b2e4709",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "653090",
+        "Tên Bưu cục": "Ninh Sơn",
+        "Họ và tên người sử dụng": "Nguyễn Trang Phương Hiền",
+        "Mã HRM": "00038643",
+        "Bộ phận / Phòng ban": "VHX",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "KHA-NH-NINHSON",
+        "Loại máy": "Desktop",
+        "Hãng": "Dell Inc.",
+        "Model": "OptiPlex 3020M",
+        "Năm sản xuất": "",
+        "Serial Number": "B01K862",
+        "CPU": "Intel(R) Core(TM) i3-4160T CPU @ 3.10GHz",
+        "RAM": "3.9 GB",
+        "Ổ cứng": "241 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.19044",
+        "Office": "Microsoft Office Professional Plus 2021 - en-us",
+        "Antivirus": "Windows Defender, FortiClient AntiVirus, Kaspersky Endpoint Security for Windows",
+        "IP Address": "192.168.1.4",
+        "MAC Address": "64:00:6A:00:32:C2"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "HP LaserJet Pro M201dw UPD PCL 6",
+          "serial": ""
+        },
+        {
+          "type": "barcode_reader",
+          "name": "Symbol Bar Code Scanner",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-06-18T04:18:23",
+      "updatedAt": "2026-06-18T04:18:23"
     }
   ]
 }
