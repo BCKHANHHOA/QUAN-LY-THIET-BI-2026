@@ -2986,6 +2986,37 @@
       ],
       "createdAt": "2026-06-18T07:19:19",
       "updatedAt": "2026-06-18T07:19:19"
+    },
+    {
+      "id": "faa58ff7056e4be1bd2b58b7dcbc0c08",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "6517",
+        "Tên Xã": "ĐẠI LÃNH",
+        "Mã Bưu cục": "653590",
+        "Tên Bưu cục": "VHX VẠN THẠNH",
+        "Họ và tên người sử dụng": "LÊ THỊ GIANG THUỲ",
+        "Mã HRM": "00249092",
+        "Bộ phận / Phòng ban": "QUẦY GIAO DỊCH",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "DESKTOP-HE9M7B6",
+        "Loại máy": "Desktop",
+        "Hãng": "Gigabyte Technology Co., Ltd.",
+        "Model": "H510M H V2",
+        "Năm sản xuất": "",
+        "Serial Number": "Default string",
+        "CPU": "Intel(R) Pentium(R) Gold G6400 CPU @ 4.00GHz",
+        "RAM": "7.8 GB",
+        "Ổ cứng": "240 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.19045",
+        "Office": "Microsoft Office Professional Plus 2021 - en-us",
+        "Antivirus": "Windows Defender, FortiClient AntiVirus",
+        "IP Address": "192.168.1.2",
+        "MAC Address": "10:FF:E0:F3:ED:A6"
+      },
+      "attachments": [],
+      "createdAt": "2026-06-18T07:20:40",
+      "updatedAt": "2026-06-18T07:20:40"
     }
   ]
 }
