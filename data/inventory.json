@@ -3670,6 +3670,37 @@
       ],
       "createdAt": "2026-06-18T07:51:29",
       "updatedAt": "2026-06-18T07:51:29"
+    },
+    {
+      "id": "8f93c9007b79409db39cb9e5fa1b3fa3",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "65",
+        "Tên Bưu cục": "Phòng TCHC",
+        "Họ và tên người sử dụng": "Lê Văn Cảnh",
+        "Mã HRM": "00038461",
+        "Bộ phận / Phòng ban": "Phòng TCHC",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "KHA-TCHC-LEVANC",
+        "Loại máy": "Desktop",
+        "Hãng": "Gigabyte Technology Co., Ltd.",
+        "Model": "H410M DS2V V3",
+        "Năm sản xuất": "",
+        "Serial Number": "Default string",
+        "CPU": "Intel(R) Pentium(R) Gold G6405 CPU @ 4.10GHz",
+        "RAM": "3.8 GB",
+        "Ổ cứng": "582 GB",
+        "Hệ điều hành": "Microsoft Windows 11 Pro 10.0.26200",
+        "Office": "Microsoft Office Office 64-bit Components 2010",
+        "Antivirus": "Windows Defender, Kaspersky Endpoint Security for Windows",
+        "IP Address": "10.57.137.41",
+        "MAC Address": "D8:5E:D3:73:67:70"
+      },
+      "attachments": [],
+      "createdAt": "2026-06-18T07:54:57",
+      "updatedAt": "2026-06-18T07:54:57"
     }
   ]
 }
