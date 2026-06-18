@@ -3555,6 +3555,37 @@
       "attachments": [],
       "createdAt": "2026-06-18T07:47:44",
       "updatedAt": "2026-06-18T07:47:44"
+    },
+    {
+      "id": "abc5ced80ebf491eafe6dc74e10fdb88",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "6508",
+        "Tên Xã": "Thuận Nam",
+        "Mã Bưu cục": "663900",
+        "Tên Bưu cục": "Thuận Nam",
+        "Họ và tên người sử dụng": "Nguyễn Thị Hồng",
+        "Mã HRM": "00049327",
+        "Bộ phận / Phòng ban": "BC Thuận Nam",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "HP-1",
+        "Loại máy": "Laptop",
+        "Hãng": "HP",
+        "Model": "HP 340S G7 Notebook PC",
+        "Năm sản xuất": "",
+        "Serial Number": "5CD1080X5F",
+        "CPU": "Intel(R) Core(TM) i3-1005G1 CPU @ 1.20GHz",
+        "RAM": "3.7 GB",
+        "Ổ cứng": "238 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Home Single Language 10.0.19045",
+        "Office": "Microsoft Office Professional Plus 2019 - en-us",
+        "Antivirus": "Windows Defender",
+        "IP Address": "192.168.1.208",
+        "MAC Address": "64:6C:80:63:E4:AF"
+      },
+      "attachments": [],
+      "createdAt": "2026-06-18T07:47:51",
+      "updatedAt": "2026-06-18T07:47:51"
     }
   ]
 }
