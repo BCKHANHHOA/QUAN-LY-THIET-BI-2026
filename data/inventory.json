@@ -898,6 +898,43 @@
       ],
       "createdAt": "2026-06-18T01:37:45",
       "updatedAt": "2026-06-18T01:37:45"
+    },
+    {
+      "id": "f334b6575c2f46cead14dcf85f6f6719",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "65",
+        "Tên Bưu cục": "Bưu điện tỉnh Khánh Hòa",
+        "Họ và tên người sử dụng": "Nguyễn Thị Mỹ Hiền",
+        "Mã HRM": "00038537",
+        "Bộ phận / Phòng ban": "Phòng tài chính kế hoạch",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "Ketoan-Hien",
+        "Loại máy": "Desktop",
+        "Hãng": "",
+        "Model": "",
+        "Năm sản xuất": "2023",
+        "Serial Number": "",
+        "CPU": "",
+        "RAM": "4.00 GB",
+        "Ổ cứng": "",
+        "Hệ điều hành": "",
+        "Office": "",
+        "Antivirus": "",
+        "IP Address": "10.57.132.5",
+        "MAC Address": ""
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "Canon LBP 6300DN",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-06-18T01:38:56",
+      "updatedAt": "2026-06-18T01:38:56"
     }
   ]
 }
