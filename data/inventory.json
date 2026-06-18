@@ -935,6 +935,37 @@
       ],
       "createdAt": "2026-06-18T01:38:56",
       "updatedAt": "2026-06-18T01:38:56"
+    },
+    {
+      "id": "b6ec484dd0804b8fac9ac4d5020d24c8",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "65",
+        "Tên Bưu cục": "Bưu điện tỉnh Khánh Hòa",
+        "Họ và tên người sử dụng": "Phạm Thị Ái Vân",
+        "Mã HRM": "0038445",
+        "Bộ phận / Phòng ban": "Phòng Tài chính Kế hoạch",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "KTNV-AIVAN",
+        "Loại máy": "Desktop",
+        "Hãng": "Dell Inc.",
+        "Model": "OptiPlex 5060",
+        "Năm sản xuất": "",
+        "Serial Number": "G6K0TR2",
+        "CPU": "Intel(R) Core(TM) i3-8100T CPU @ 3.10GHz",
+        "RAM": "3,8 GB",
+        "Ổ cứng": "701 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.14393",
+        "Office": "Microsoft Office 64-bit Components 2016",
+        "Antivirus": "Windows Defender",
+        "IP Address": "10.57.137.87",
+        "MAC Address": "B8:85:84:A8:D2:30"
+      },
+      "attachments": [],
+      "createdAt": "2026-06-18T01:44:08",
+      "updatedAt": "2026-06-18T01:44:08"
     }
   ]
 }
