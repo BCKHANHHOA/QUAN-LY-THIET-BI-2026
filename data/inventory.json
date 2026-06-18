@@ -756,6 +756,43 @@
       ],
       "createdAt": "2026-06-18T01:34:13",
       "updatedAt": "2026-06-18T01:34:13"
+    },
+    {
+      "id": "1de8f9776084413780b3af1f67090949",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "6535",
+        "Tên Xã": "BCVH Vạn Ninh",
+        "Mã Bưu cục": "653510",
+        "Tên Bưu cục": "KT Vạn Ninh",
+        "Họ và tên người sử dụng": "Phi Quốc Trường",
+        "Mã HRM": "00252114",
+        "Bộ phận / Phòng ban": "BCVH Vạn Ninh",
+        "Mã vật tư": "CC207230",
+        "Tên máy (Hostname)": "KH-VN-KT1",
+        "Loại máy": "Desktop",
+        "Hãng": "DELL",
+        "Model": "E1916H",
+        "Năm sản xuất": "",
+        "Serial Number": "",
+        "CPU": "Intel(R) Core(TM) i3-8100T CPU @ 3.10GHz   3.10 GHz",
+        "RAM": "4GB",
+        "Ổ cứng": "237GB",
+        "Hệ điều hành": "Windows 10 Pro",
+        "Office": "Office 2016",
+        "Antivirus": "",
+        "IP Address": "10.57.132.4",
+        "MAC Address": "B8-85-84-A4-4B-4D"
+      },
+      "attachments": [
+        {
+          "type": "thermal_printer",
+          "name": "ZEBRA",
+          "serial": "DS22"
+        }
+      ],
+      "createdAt": "2026-06-18T01:24:45",
+      "updatedAt": "2026-06-18T01:24:45"
     }
   ]
 }
