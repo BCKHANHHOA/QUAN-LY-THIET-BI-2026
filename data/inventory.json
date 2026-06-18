@@ -1370,6 +1370,38 @@
       ],
       "createdAt": "2026-06-18T02:23:07",
       "updatedAt": "2026-06-18T02:23:07"
+    },
+    {
+      "id": "0442e953b04a43ec864dc02146ac731f",
+      "category": "7. Cân Điện Tử",
+      "fields": {
+        "Mã Tỉnh": "",
+        "Tên Tỉnh": "",
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "653640",
+        "Tên Bưu cục": "Xuân Tự",
+        "Họ và tên người sử dụng": "Phạm Hữu Thịnh",
+        "Mã HRM": "00105354",
+        "Bộ phận / Phòng ban": "Khối Sản xuất",
+        "Mã vật tư": "CC207210",
+        "Số thẻ\n(Số mã trên phiếu kê tài sản)": "",
+        "Tên tài sản\n(Theo danh mục CCDC)": "Cân điện tử (Khối Sản xuất)",
+        "Loại cân (Cân bàn/Cân bưu kiện...)": "",
+        "Hãng sản xuất": "",
+        "Model": "CAS PRII-30EB",
+        "Tải trọng tối đa (vd: 30kg, 100kg)": "30",
+        "Serial Number": "",
+        "Năm sản xuất": "",
+        "Ngày kiểm định gần nhất": "",
+        "Thời hạn kiểm định tiếp theo": "",
+        "Vị trí lắp đặt/Sử dụng": "",
+        "Tình trạng hoạt động": "",
+        "Ghi chú": ""
+      },
+      "attachments": [],
+      "createdAt": "2026-06-18T02:24:39",
+      "updatedAt": "2026-06-18T02:24:39"
     }
   ]
 }
