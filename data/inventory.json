@@ -4366,6 +4366,37 @@
       "attachments": [],
       "createdAt": "2026-06-18T10:15:45",
       "updatedAt": "2026-06-18T10:15:45"
+    },
+    {
+      "id": "be1a0740446742c09639cb0694eed25e",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "6528",
+        "Tên Xã": "Cam Lâm",
+        "Mã Bưu cục": "6528",
+        "Tên Bưu cục": "Cam Lâm",
+        "Họ và tên người sử dụng": "Hồ Thị Ánh Nguyệt",
+        "Mã HRM": "00038723",
+        "Bộ phận / Phòng ban": "NVKD",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "DESKTOP-PMCMVSS",
+        "Loại máy": "Desktop",
+        "Hãng": "Dell Inc.",
+        "Model": "OptiPlex 5060",
+        "Năm sản xuất": "",
+        "Serial Number": "B07W8T2",
+        "CPU": "Intel(R) Core(TM) i3-8100T CPU @ 3.10GHz",
+        "RAM": "3.8 GB",
+        "Ổ cứng": "583 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Home Single Language 10.0.19045",
+        "Office": "Microsoft Office Professional Plus 2019 - en-us",
+        "Antivirus": "Kaspersky, Kaspersky Free, Windows Defender, Kaspersky, Kaspersky Free",
+        "IP Address": "10.57.134.13",
+        "MAC Address": "B8:85:84:AF:45:E5"
+      },
+      "attachments": [],
+      "createdAt": "2026-06-18T10:32:53",
+      "updatedAt": "2026-06-18T10:32:53"
     }
   ]
 }
