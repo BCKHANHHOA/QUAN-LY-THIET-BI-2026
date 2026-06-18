@@ -1787,6 +1787,48 @@
       "attachments": [],
       "createdAt": "2026-06-18T03:08:38",
       "updatedAt": "2026-06-18T03:08:38"
+    },
+    {
+      "id": "8715bdd677ac467b810c0bbea3403a06",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "6608",
+        "Tên Xã": "thuận nam",
+        "Mã Bưu cục": "663876",
+        "Tên Bưu cục": "BĐVHX Phước Ninh",
+        "Họ và tên người sử dụng": "Thiên Thị Hương Giang",
+        "Mã HRM": "00242071",
+        "Bộ phận / Phòng ban": "BĐVHX",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "NTN-TNM-663876",
+        "Loại máy": "Desktop",
+        "Hãng": "Gigabyte Technology Co., Ltd.",
+        "Model": "H510M S2H",
+        "Năm sản xuất": "",
+        "Serial Number": "Default string",
+        "CPU": "Intel(R) Pentium(R) Gold G6400 CPU @ 4.00GHz",
+        "RAM": "3.8 GB",
+        "Ổ cứng": "114 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.19041",
+        "Office": "Microsoft Office Professional Plus 2019 - en-us",
+        "Antivirus": "Windows Defender, FortiClient AntiVirus, Kaspersky Endpoint Security for Windows",
+        "IP Address": "192.168.1.11",
+        "MAC Address": "D8:5E:D3:7D:A2:A8"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "Brother-HL-L2321D",
+          "serial": "E73793E1N589105"
+        },
+        {
+          "type": "barcode_reader",
+          "name": "Zebra",
+          "serial": "20206010552028"
+        }
+      ],
+      "createdAt": "2026-06-18T03:08:32",
+      "updatedAt": "2026-06-18T03:08:32"
     }
   ]
 }
