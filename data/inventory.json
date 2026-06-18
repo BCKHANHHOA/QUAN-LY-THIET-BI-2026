@@ -1554,6 +1554,48 @@
       ],
       "createdAt": "2026-06-18T02:32:05",
       "updatedAt": "2026-06-18T02:32:05"
+    },
+    {
+      "id": "0cd208113586480bb5d3205b827b529c",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "653180",
+        "Tên Bưu cục": "Ninh Xuân",
+        "Họ và tên người sử dụng": "Nguyễn Thị Kim Phượng",
+        "Mã HRM": "00266100",
+        "Bộ phận / Phòng ban": "GDV",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "KHA-NH-NINHXUAN",
+        "Loại máy": "Desktop",
+        "Hãng": "Gigabyte Technology Co., Ltd.",
+        "Model": "To be filled by O.E.M.",
+        "Năm sản xuất": "",
+        "Serial Number": "To be filled by O.E.M.",
+        "CPU": "Intel(R) Core(TM) i3-2100 CPU @ 3.10GHz",
+        "RAM": "3.9 GB",
+        "Ổ cứng": "240 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.19043",
+        "Office": "Microsoft Office 64-bit Components 2016",
+        "Antivirus": "Windows Defender, FortiClient AntiVirus, Kaspersky Endpoint Security for Windows",
+        "IP Address": "10.57.131.194",
+        "MAC Address": "40:8D:5C:81:46:8B"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "Canon LBP2900",
+          "serial": ""
+        },
+        {
+          "type": "barcode_reader",
+          "name": "1D Barcode Scanner HID KBW",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-06-18T02:52:45",
+      "updatedAt": "2026-06-18T02:52:45"
     }
   ]
 }
