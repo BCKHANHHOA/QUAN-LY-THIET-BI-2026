@@ -579,6 +579,37 @@
       "attachments": [],
       "createdAt": "2026-06-18T01:28:26",
       "updatedAt": "2026-06-18T01:28:26"
+    },
+    {
+      "id": "d61d6fd5df45492594abd4c2fdd269d7",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "65",
+        "Tên Bưu cục": "Bưu điện tỉnh Khánh Hoà",
+        "Họ và tên người sử dụng": "Nguyễn Lê Hoàng Chương",
+        "Mã HRM": "00038469",
+        "Bộ phận / Phòng ban": "Phòng tài chính kế hoạch",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "KHA-NT-THITAM",
+        "Loại máy": "Desktop",
+        "Hãng": "Gigabyte Technology Co., Ltd.",
+        "Model": "GA-H110M-H",
+        "Năm sản xuất": "",
+        "Serial Number": "Default string",
+        "CPU": "Intel(R) Pentium(R) CPU G4400 @ 3.30GHz",
+        "RAM": "7,9 GB",
+        "Ổ cứng": "119 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.19045",
+        "Office": "Microsoft Office Professional Plus 2016",
+        "Antivirus": "Windows Defender",
+        "IP Address": "10.57.137.77",
+        "MAC Address": "10:FF:E0:7C:58:72"
+      },
+      "attachments": [],
+      "createdAt": "2026-06-18T01:29:34",
+      "updatedAt": "2026-06-18T01:29:34"
     }
   ]
 }
