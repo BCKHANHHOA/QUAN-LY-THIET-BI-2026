@@ -4016,6 +4016,48 @@
       ],
       "createdAt": "2026-06-18T09:08:28",
       "updatedAt": "2026-06-18T09:08:28"
+    },
+    {
+      "id": "2f79cd55a3c3450080488a2a5789702b",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "653700",
+        "Tên Bưu cục": "Bưu cục Trung tâm Diên Khánh",
+        "Họ và tên người sử dụng": "Nguyễn Thị Liên",
+        "Mã HRM": "00038674",
+        "Bộ phận / Phòng ban": "Kinh Doanh Diên Khánh",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "DESKTOP-PQQ8333",
+        "Loại máy": "Desktop",
+        "Hãng": "ASUS",
+        "Model": "System Product Name",
+        "Năm sản xuất": "",
+        "Serial Number": "System Serial Number",
+        "CPU": "Intel(R) Pentium(R) Gold G6405 CPU @ 4.10GHz",
+        "RAM": "7.8 GB",
+        "Ổ cứng": "239 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.19045",
+        "Office": "Microsoft Office Professional Plus 2024 - en-us",
+        "Antivirus": "Windows Defender",
+        "IP Address": "10.57.135.21",
+        "MAC Address": "A0:AD:9F:C7:B9:76"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "Canon6030",
+          "serial": ""
+        },
+        {
+          "type": "barcode_reader",
+          "name": "WiNSON",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-06-18T09:10:18",
+      "updatedAt": "2026-06-18T09:10:18"
     }
   ]
 }
