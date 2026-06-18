@@ -4209,6 +4209,48 @@
       ],
       "createdAt": "2026-06-18T09:30:49",
       "updatedAt": "2026-06-18T09:30:49"
+    },
+    {
+      "id": "943f08ca90124f4bab397aa9542543d2",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "6528",
+        "Tên Xã": "cam lâm",
+        "Mã Bưu cục": "655300",
+        "Tên Bưu cục": "Cam Tân",
+        "Họ và tên người sử dụng": "NGUYỄN THỊ NGỌC LOAN",
+        "Mã HRM": "00038753",
+        "Bộ phận / Phòng ban": "GDV",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "KHA-CL-VHXCT",
+        "Loại máy": "Desktop",
+        "Hãng": "Dell Inc.",
+        "Model": "OptiPlex 5060",
+        "Năm sản xuất": "",
+        "Serial Number": "9ZNS8T2",
+        "CPU": "Intel(R) Core(TM) i3-8100T CPU @ 3.10GHz",
+        "RAM": "3.8 GB",
+        "Ổ cứng": "586 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Home Single Language 10.0.19045",
+        "Office": "Microsoft Office Professional Plus 2019 - en-us",
+        "Antivirus": "Windows Defender, Kaspersky Endpoint Security for Windows",
+        "IP Address": "192.168.1.21",
+        "MAC Address": "B8:85:84:AF:46:82"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "canon LBP2900",
+          "serial": ""
+        },
+        {
+          "type": "barcode_reader",
+          "name": "caution",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-06-18T09:40:32",
+      "updatedAt": "2026-06-18T09:40:32"
     }
   ]
 }
