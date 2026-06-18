@@ -1633,6 +1633,48 @@
       ],
       "createdAt": "2026-06-18T02:58:44",
       "updatedAt": "2026-06-18T02:58:44"
+    },
+    {
+      "id": "7e0057639c2540549221871898f9d9c0",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "653630",
+        "Tên Bưu cục": "VHX Xuân Sơn",
+        "Họ và tên người sử dụng": "Lê Thị Nhung",
+        "Mã HRM": "00108512",
+        "Bộ phận / Phòng ban": "khối sản xuất",
+        "Mã vật tư": "CC207230",
+        "Tên máy (Hostname)": "KHA-VN-VHX-XUAN",
+        "Loại máy": "Desktop",
+        "Hãng": "Gigabyte Technology Co., Ltd.",
+        "Model": "H410M S2H V2",
+        "Năm sản xuất": "",
+        "Serial Number": "Default string",
+        "CPU": "Intel(R) Pentium(R) Gold G6400 CPU @ 4.00GHz",
+        "RAM": "7.8 GB",
+        "Ổ cứng": "240 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.19045",
+        "Office": "Microsoft Office LTSC Professional Plus 2021 - en-us",
+        "Antivirus": "Windows Defender, FortiClient AntiVirus",
+        "IP Address": "192.168.1.63",
+        "MAC Address": "18:C0:4D:DB:10:55"
+      },
+      "attachments": [
+        {
+          "type": "photocopier",
+          "name": "Canon 2900",
+          "serial": "L11121E"
+        },
+        {
+          "type": "barcode_reader",
+          "name": "Antech",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-06-18T03:05:07",
+      "updatedAt": "2026-06-18T03:05:07"
     }
   ]
 }
