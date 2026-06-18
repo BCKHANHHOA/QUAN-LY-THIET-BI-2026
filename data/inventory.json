@@ -151,6 +151,48 @@
       ],
       "createdAt": "2026-06-17T09:52:36",
       "updatedAt": "2026-06-17T09:52:36"
+    },
+    {
+      "id": "36f9957e849e4179be360c09399cc6c5",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "652900",
+        "Tên Bưu cục": "Ninh Hòa",
+        "Họ và tên người sử dụng": "Trần Ngọc Bích",
+        "Mã HRM": "00038600",
+        "Bộ phận / Phòng ban": "GDV",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "TIETKIEMGD",
+        "Loại máy": "Desktop",
+        "Hãng": "Dell Inc.",
+        "Model": "OptiPlex 3020M",
+        "Năm sản xuất": "",
+        "Serial Number": "1RYBH32",
+        "CPU": "Intel(R) Core(TM) i3-4150T CPU @ 3.00GHz",
+        "RAM": "3.9 GB",
+        "Ổ cứng": "225 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.19043",
+        "Office": "Microsoft Office 64-bit Components 2016",
+        "Antivirus": "Windows Defender",
+        "IP Address": "10.57.131.3",
+        "MAC Address": "F8:BC:12:A4:AB:21"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "HP LaserJet Professional M1132 MFP",
+          "serial": ""
+        },
+        {
+          "type": "barcode_reader",
+          "name": "Symbol Bar Code Scanner",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-06-18T01:03:41",
+      "updatedAt": "2026-06-18T01:03:41"
     }
   ]
 }
