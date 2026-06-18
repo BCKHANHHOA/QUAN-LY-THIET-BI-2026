@@ -548,6 +548,37 @@
       "attachments": [],
       "createdAt": "2026-06-18T01:22:10",
       "updatedAt": "2026-06-18T01:22:10"
+    },
+    {
+      "id": "682b97110a094d3493bd467663fdfcaf",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "65",
+        "Tên Bưu cục": "Bưu điện tỉnh Khánh Hòa",
+        "Họ và tên người sử dụng": "Lê Ngọc Thiên Hương",
+        "Mã HRM": "00216902",
+        "Bộ phận / Phòng ban": "Phòng Tài chính Kế hoạch",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "DESKTOP-R82HCPA",
+        "Loại máy": "Desktop",
+        "Hãng": "Dell Inc.",
+        "Model": "OptiPlex 5060",
+        "Năm sản xuất": "",
+        "Serial Number": "G8CZSR2",
+        "CPU": "Intel(R) Core(TM) i3-8100T CPU @ 3.10GHz",
+        "RAM": "3.8 GB",
+        "Ổ cứng": "238 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Home Single Language 10.0.19045",
+        "Office": "Microsoft Office Professional Plus 2019 - en-us",
+        "Antivirus": "Windows Defender",
+        "IP Address": "10.57.137.225",
+        "MAC Address": "B8:85:84:A7:31:18"
+      },
+      "attachments": [],
+      "createdAt": "2026-06-18T01:28:26",
+      "updatedAt": "2026-06-18T01:28:26"
     }
   ]
 }
