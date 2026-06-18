@@ -3487,6 +3487,43 @@
       ],
       "createdAt": "2026-06-18T07:42:56",
       "updatedAt": "2026-06-18T07:42:56"
+    },
+    {
+      "id": "e8d2b258d8ca4973895e1c4ae3ac25ea",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "653000",
+        "Tên Bưu cục": "Ninh Thọ",
+        "Họ và tên người sử dụng": "Trần Hàng Thiếu Ly",
+        "Mã HRM": "00234632",
+        "Bộ phận / Phòng ban": "VHX",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "KHA-NH-NINHTHO",
+        "Loại máy": "Desktop",
+        "Hãng": "To be filled by O.E.M.",
+        "Model": "To be filled by O.E.M.",
+        "Năm sản xuất": "",
+        "Serial Number": "To be filled by O.E.M.",
+        "CPU": "Intel(R) Pentium(R) CPU G645 @ 2.90GHz",
+        "RAM": "3.9 GB",
+        "Ổ cứng": "263 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.19043",
+        "Office": "Microsoft Office 64-bit Components 2016",
+        "Antivirus": "Windows Defender, FortiClient AntiVirus",
+        "IP Address": "192.168.1.13",
+        "MAC Address": "00:E0:23:2C:01:84"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "Canon LBP2900",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-06-18T07:45:50",
+      "updatedAt": "2026-06-18T07:45:50"
     }
   ]
 }
