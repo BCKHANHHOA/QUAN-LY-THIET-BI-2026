@@ -4089,6 +4089,37 @@
       "attachments": [],
       "createdAt": "2026-06-18T09:18:57",
       "updatedAt": "2026-06-18T09:18:57"
+    },
+    {
+      "id": "8ac80e1468194ccf988c246c631d0599",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "653810",
+        "Tên Bưu cục": "VHX Diên Thọ",
+        "Họ và tên người sử dụng": "Nguyễn Thảo Bảo Trân",
+        "Mã HRM": "00108527",
+        "Bộ phận / Phòng ban": "Kinh doanh xã DIên Thọ",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "KHA-DKHANH-DIEN",
+        "Loại máy": "Desktop",
+        "Hãng": "ASUS",
+        "Model": "System Product Name",
+        "Năm sản xuất": "",
+        "Serial Number": "System Serial Number",
+        "CPU": "Intel(R) Pentium(R) Gold G6405 CPU @ 4.10GHz",
+        "RAM": "7.8 GB",
+        "Ổ cứng": "239 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.19045",
+        "Office": "Microsoft Office Professional Plus 2024 - en-us",
+        "Antivirus": "Windows Defender, FortiClient AntiVirus",
+        "IP Address": "192.168.1.5",
+        "MAC Address": "A0:AD:9F:C7:AD:C4"
+      },
+      "attachments": [],
+      "createdAt": "2026-06-18T09:24:06",
+      "updatedAt": "2026-06-18T09:24:06"
     }
   ]
 }
