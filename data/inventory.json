@@ -688,6 +688,37 @@
       ],
       "createdAt": "2026-06-18T01:22:14",
       "updatedAt": "2026-06-18T01:22:14"
+    },
+    {
+      "id": "5115eaacfbc5462c8f4042549423bd11",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "65",
+        "Tên Bưu cục": "Bưu điện tỉnh Khánh Hoà",
+        "Họ và tên người sử dụng": "Trần Thị Kim Châu",
+        "Mã HRM": "00252845",
+        "Bộ phận / Phòng ban": "Phòng tài chính kế hoạch",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "KHA-NT-KIMCHAU",
+        "Loại máy": "Desktop",
+        "Hãng": "ASUS",
+        "Model": "System Product Name",
+        "Năm sản xuất": "",
+        "Serial Number": "System Serial Number",
+        "CPU": "Intel(R) Celeron(R) G5905 CPU @ 3.50GHz",
+        "RAM": "3,8 GB",
+        "Ổ cứng": "112 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.14393",
+        "Office": "Microsoft Office Professional Plus 2016",
+        "Antivirus": "Windows Defender, Kaspersky Endpoint Security for Windows",
+        "IP Address": "10.57.137.33",
+        "MAC Address": "7C:10:C9:22:16:43"
+      },
+      "attachments": [],
+      "createdAt": "2026-06-18T01:33:26",
+      "updatedAt": "2026-06-18T01:33:26"
     }
   ]
 }
