@@ -2393,6 +2393,43 @@
       ],
       "createdAt": "2026-06-18T03:46:53",
       "updatedAt": "2026-06-18T03:46:53"
+    },
+    {
+      "id": "17447e9b0fe64882938a302d597f6a73",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "653190",
+        "Tên Bưu cục": "Dục Mỹ",
+        "Họ và tên người sử dụng": "Lê Đào Ngọc Hương",
+        "Mã HRM": "00105015",
+        "Bộ phận / Phòng ban": "GDV",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "KHA-NH-DUCMY",
+        "Loại máy": "Desktop",
+        "Hãng": "Dell Inc.",
+        "Model": "OptiPlex 5060",
+        "Năm sản xuất": "",
+        "Serial Number": "9ZVM8T2",
+        "CPU": "Intel(R) Core(TM) i3-8100T CPU @ 3.10GHz",
+        "RAM": "3.8 GB",
+        "Ổ cứng": "225 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.19043",
+        "Office": "Microsoft Office 64-bit Components 2016",
+        "Antivirus": "Windows Defender, FortiClient AntiVirus, Kaspersky Endpoint Security for Windows",
+        "IP Address": "10.57.131.178",
+        "MAC Address": "B8:85:84:AF:49:02"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "Canon LBP2900",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-06-18T03:54:08",
+      "updatedAt": "2026-06-18T03:54:08"
     }
   ]
 }
