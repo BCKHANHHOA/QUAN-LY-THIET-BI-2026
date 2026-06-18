@@ -2713,6 +2713,48 @@
       "attachments": [],
       "createdAt": "2026-06-18T05:05:11",
       "updatedAt": "2026-06-18T05:05:11"
+    },
+    {
+      "id": "35ebf75c62164ff7866968e3032a039f",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "6608",
+        "Tên Xã": "Thuận Nam",
+        "Mã Bưu cục": "663920",
+        "Tên Bưu cục": "Thuận nam",
+        "Họ và tên người sử dụng": "Kiều Thị Hồng Gấm",
+        "Mã HRM": "00098571",
+        "Bộ phận / Phòng ban": "BC Thuận Nam",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "NTN-TNM-663920",
+        "Loại máy": "Desktop",
+        "Hãng": "Dell Inc.",
+        "Model": "OptiPlex 5060",
+        "Năm sản xuất": "",
+        "Serial Number": "G6XZSR2",
+        "CPU": "Intel(R) Core(TM) i3-8100T CPU @ 3.10GHz",
+        "RAM": "3.8 GB",
+        "Ổ cứng": "149 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.19042",
+        "Office": "Microsoft Office Professional Plus 2019 - en-us",
+        "Antivirus": "Windows Defender",
+        "IP Address": "10.63.116.206",
+        "MAC Address": "B8:85:84:AA:FF:45"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "Canon LPB2900",
+          "serial": "NDMA461350"
+        },
+        {
+          "type": "barcode_reader",
+          "name": "Zebra",
+          "serial": "20213010563899"
+        }
+      ],
+      "createdAt": "2026-06-18T05:09:23",
+      "updatedAt": "2026-06-18T05:09:23"
     }
   ]
 }
