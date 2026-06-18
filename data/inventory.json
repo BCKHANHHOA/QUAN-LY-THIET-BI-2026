@@ -356,6 +356,37 @@
       ],
       "createdAt": "2026-06-18T01:22:40",
       "updatedAt": "2026-06-18T01:22:40"
+    },
+    {
+      "id": "674bca25bc7c4b1da31565cb55b34cb9",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "65",
+        "Tên Bưu cục": "Bưu điện tỉnh Khánh Hòa",
+        "Họ và tên người sử dụng": "Lê Thị Tâm",
+        "Mã HRM": "00049053",
+        "Bộ phận / Phòng ban": "Phòng Tài Chính Kế Hoạch Nam Khánh Hòa",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "PC17",
+        "Loại máy": "Desktop",
+        "Hãng": "Gigabyte Technology Co., Ltd.",
+        "Model": "H410M H",
+        "Năm sản xuất": "",
+        "Serial Number": "Default string",
+        "CPU": "Intel(R) Pentium(R) Gold G6400 CPU @ 4.00GHz",
+        "RAM": "7.9 GB",
+        "Ổ cứng": "223 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.19042",
+        "Office": "Microsoft Office Professional Plus 2019 - en-us",
+        "Antivirus": "Windows Defender",
+        "IP Address": "192.168.80.114",
+        "MAC Address": "18:C0:4D:B1:83:34"
+      },
+      "attachments": [],
+      "createdAt": "2026-06-18T01:23:38",
+      "updatedAt": "2026-06-18T01:23:38"
     }
   ]
 }
