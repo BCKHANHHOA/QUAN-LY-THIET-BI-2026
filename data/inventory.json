@@ -4288,6 +4288,53 @@
       ],
       "createdAt": "2026-06-18T09:45:55",
       "updatedAt": "2026-06-18T09:45:55"
+    },
+    {
+      "id": "250335021647410881e7ffa2ce28e203",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "653890",
+        "Tên Bưu cục": "BƯU CỤC XÃ SUỐI HIỆP",
+        "Họ và tên người sử dụng": "TRẦN THỊ KHÁNH TRANG",
+        "Mã HRM": "00110395",
+        "Bộ phận / Phòng ban": "KINH DOANH XÃ SUỐI HIỆP",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "THUYKT",
+        "Loại máy": "Desktop",
+        "Hãng": "HP",
+        "Model": "HP ProDesk 600 G5 Desktop Mini",
+        "Năm sản xuất": "",
+        "Serial Number": "8CC01132PJ",
+        "CPU": "Intel(R) Core(TM) i3-9100T CPU @ 3.10GHz",
+        "RAM": "3.8 GB",
+        "Ổ cứng": "120 GB",
+        "Hệ điều hành": "Microsoft Windows 11 Pro 10.0.22000",
+        "Office": "Microsoft Office Office 64-bit Components 2007",
+        "Antivirus": "Windows Defender",
+        "IP Address": "192.168.1.4",
+        "MAC Address": "38:22:E2:18:8B:AE"
+      },
+      "attachments": [
+        {
+          "type": "thermal_printer",
+          "name": "ZEBRA ZD620",
+          "serial": "03J204204448"
+        },
+        {
+          "type": "photocopier",
+          "name": "CANON 2900",
+          "serial": "NYMA920221"
+        },
+        {
+          "type": "barcode_reader",
+          "name": "VOYAGER",
+          "serial": "3K16510038"
+        }
+      ],
+      "createdAt": "2026-06-18T09:51:46",
+      "updatedAt": "2026-06-18T09:51:46"
     }
   ]
 }
