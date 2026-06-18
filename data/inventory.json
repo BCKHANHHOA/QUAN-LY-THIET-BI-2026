@@ -2430,6 +2430,48 @@
       ],
       "createdAt": "2026-06-18T03:54:08",
       "updatedAt": "2026-06-18T03:54:08"
+    },
+    {
+      "id": "599a61afa2404420b1067717dcc64d61",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "6517",
+        "Tên Xã": "Xã Đại Lãnh",
+        "Mã Bưu cục": "653570",
+        "Tên Bưu cục": "bưu cục Đại Lãnh",
+        "Họ và tên người sử dụng": "Hà Ngọc Sơn",
+        "Mã HRM": "00038565",
+        "Bộ phận / Phòng ban": "Quầy giao dịch",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "DESKTOP-O3CCCL2",
+        "Loại máy": "Desktop",
+        "Hãng": "Dell Inc.",
+        "Model": "OptiPlex 5060",
+        "Năm sản xuất": "",
+        "Serial Number": "9YPV8T2",
+        "CPU": "Intel(R) Core(TM) i3-8100T CPU @ 3.10GHz",
+        "RAM": "3.8 GB",
+        "Ổ cứng": "240 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.19045",
+        "Office": "Microsoft Office Professional Plus 2021 - en-us",
+        "Antivirus": "Windows Defender, FortiClient AntiVirus, 360 Total Security",
+        "IP Address": "10.57.132.226",
+        "MAC Address": "B8:85:84:AF:45:6A"
+      },
+      "attachments": [
+        {
+          "type": "thermal_printer",
+          "name": "ZEBRA ZD620",
+          "serial": "D3J204202900"
+        },
+        {
+          "type": "barcode_reader",
+          "name": "Antech",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-06-18T03:57:00",
+      "updatedAt": "2026-06-18T03:57:00"
     }
   ]
 }
