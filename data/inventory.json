@@ -4058,6 +4058,37 @@
       ],
       "createdAt": "2026-06-18T09:10:18",
       "updatedAt": "2026-06-18T09:10:18"
+    },
+    {
+      "id": "1ef849d520e24e988d399b33545c7229",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "653800",
+        "Tên Bưu cục": "BC Diên Phước",
+        "Họ và tên người sử dụng": "Huỳnh Thị Minh Châu",
+        "Mã HRM": "00251099",
+        "Bộ phận / Phòng ban": "Khối sản xuất",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "KHA-DK-BCDIENPH",
+        "Loại máy": "Desktop",
+        "Hãng": "ASRock",
+        "Model": "H510M-H2/M.2 SE",
+        "Năm sản xuất": "",
+        "Serial Number": "To Be Filled By O.E.M.",
+        "CPU": "Intel(R) Pentium(R) Gold G6405 CPU @ 4.10GHz",
+        "RAM": "7.6 GB",
+        "Ổ cứng": "240 GB",
+        "Hệ điều hành": "Microsoft Windows 11 Pro 10.0.22621",
+        "Office": "Microsoft Office LTSC Professional Plus 2021 - en-us",
+        "Antivirus": "Windows Defender",
+        "IP Address": "10.57.135.228",
+        "MAC Address": "9C:6B:00:87:8A:48"
+      },
+      "attachments": [],
+      "createdAt": "2026-06-18T09:18:57",
+      "updatedAt": "2026-06-18T09:18:57"
     }
   ]
 }
