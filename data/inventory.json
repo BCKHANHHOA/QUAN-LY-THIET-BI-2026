@@ -4335,6 +4335,37 @@
       ],
       "createdAt": "2026-06-18T09:51:46",
       "updatedAt": "2026-06-18T09:51:46"
+    },
+    {
+      "id": "be9e7ef968a542eebdb9d45d284bcbcf",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "65",
+        "Tên Bưu cục": "phòng Tổ chức Hành chính",
+        "Họ và tên người sử dụng": "Trương Vĩnh Huy",
+        "Mã HRM": "00038451",
+        "Bộ phận / Phòng ban": "phòng Tổ chức Hành chính",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "KHA-TTKD-HUY",
+        "Loại máy": "Desktop",
+        "Hãng": "Gigabyte Technology Co., Ltd.",
+        "Model": "B460MDS3H",
+        "Năm sản xuất": "",
+        "Serial Number": "Default string",
+        "CPU": "Intel(R) Core(TM) i7-10700 CPU @ 2.90GHz",
+        "RAM": "15,9 GB",
+        "Ổ cứng": "689 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.19045",
+        "Office": "Microsoft Office 64-bit Components 2013",
+        "Antivirus": "Windows Defender",
+        "IP Address": "10.57.137.94",
+        "MAC Address": "18:C0:4D:92:C4:3D"
+      },
+      "attachments": [],
+      "createdAt": "2026-06-18T10:15:45",
+      "updatedAt": "2026-06-18T10:15:45"
     }
   ]
 }
