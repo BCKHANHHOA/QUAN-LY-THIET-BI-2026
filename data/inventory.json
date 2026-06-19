@@ -4555,6 +4555,43 @@
       ],
       "createdAt": "2026-06-19T01:40:21",
       "updatedAt": "2026-06-19T01:40:21"
+    },
+    {
+      "id": "1efc48e27eac4606bc8e2762936339a8",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "654210",
+        "Tên Xã": "xã khánh sơn",
+        "Mã Bưu cục": "654260",
+        "Tên Bưu cục": "vhx sơn bình",
+        "Họ và tên người sử dụng": "ngô thị yến vy",
+        "Mã HRM": "00259384",
+        "Bộ phận / Phòng ban": "giao dịch viên+buu tá",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "VHX-SONBINH",
+        "Loại máy": "Desktop",
+        "Hãng": "Dell Inc.",
+        "Model": "OptiPlex 3020M",
+        "Năm sản xuất": "",
+        "Serial Number": "B0WG862",
+        "CPU": "Intel(R) Core(TM) i3-4160T CPU @ 3.10GHz",
+        "RAM": "3.9 GB",
+        "Ổ cứng": "240 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.18362",
+        "Office": "Microsoft Office Professional Plus 2016",
+        "Antivirus": "Windows Defender, FortiClient AntiVirus",
+        "IP Address": "192.168.1.7",
+        "MAC Address": "64:00:6A:01:E5:80"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "HP Oder-a-Cartridge/ laser Jet Pro M203dn",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-06-19T02:05:42",
+      "updatedAt": "2026-06-19T02:05:42"
     }
   ]
 }
