@@ -4513,6 +4513,48 @@
       ],
       "createdAt": "2026-06-19T01:17:51",
       "updatedAt": "2026-06-19T01:17:51"
+    },
+    {
+      "id": "5cd250647fa44e1ca041b582ca470a3b",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "006524",
+        "Tên Xã": "Diên Điền",
+        "Mã Bưu cục": "653740",
+        "Tên Bưu cục": "Bưu điện VHX Diên Điền",
+        "Họ và tên người sử dụng": "Phùng Thị Thu Hà",
+        "Mã HRM": "00105022",
+        "Bộ phận / Phòng ban": "VHX",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "DK",
+        "Loại máy": "Desktop",
+        "Hãng": "Dell Inc.",
+        "Model": "OptiPlex 5060",
+        "Năm sản xuất": "",
+        "Serial Number": "GC21TR2",
+        "CPU": "Intel(R) Core(TM) i3-8100T CPU @ 3.10GHz",
+        "RAM": "3.8 GB",
+        "Ổ cứng": "112 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.19045",
+        "Office": "Microsoft Office Professional Plus 2016",
+        "Antivirus": "Windows Defender",
+        "IP Address": "10.57.135.46",
+        "MAC Address": "B8:85:84:A8:CB:98"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "",
+          "serial": ""
+        },
+        {
+          "type": "barcode_reader",
+          "name": "",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-06-19T01:40:21",
+      "updatedAt": "2026-06-19T01:40:21"
     }
   ]
 }
