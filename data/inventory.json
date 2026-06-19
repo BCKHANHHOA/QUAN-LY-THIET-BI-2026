@@ -4889,6 +4889,48 @@
       "attachments": [],
       "createdAt": "2026-06-19T07:48:36",
       "updatedAt": "2026-06-19T07:48:36"
+    },
+    {
+      "id": "b12e95e9ff2e4310b659d6ab85adce62",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "653641",
+        "Tên Bưu cục": "Vạn Hưng",
+        "Họ và tên người sử dụng": "Huỳnh Hoài Hảo",
+        "Mã HRM": "00108514",
+        "Bộ phận / Phòng ban": "Khối Sản Xuất",
+        "Mã vật tư": "Máy tính bàn",
+        "Tên máy (Hostname)": "KHA-VN-VHX-VANH",
+        "Loại máy": "Desktop",
+        "Hãng": "HP",
+        "Model": "HP ProDesk 600 G5 Desktop Mini",
+        "Năm sản xuất": "",
+        "Serial Number": "8CC01132KS",
+        "CPU": "Intel(R) Core(TM) i3-9100T CPU @ 3.10GHz",
+        "RAM": "3.8 GB",
+        "Ổ cứng": "223 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.19044",
+        "Office": "Microsoft Office LTSC Professional Plus 2021 - en-us",
+        "Antivirus": "Windows Defender, FortiClient AntiVirus, Kaspersky Endpoint Security for Windows",
+        "IP Address": "192.168.1.6",
+        "MAC Address": "38:22:E2:19:3D:18"
+      },
+      "attachments": [
+        {
+          "type": "photocopier",
+          "name": "Canon 2900",
+          "serial": ""
+        },
+        {
+          "type": "barcode_reader",
+          "name": "Antech",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-06-19T08:09:13",
+      "updatedAt": "2026-06-19T08:09:13"
     }
   ]
 }
