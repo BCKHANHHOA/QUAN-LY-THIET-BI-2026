@@ -4784,6 +4784,43 @@
       "attachments": [],
       "createdAt": "2026-06-19T03:00:03",
       "updatedAt": "2026-06-19T03:00:03"
+    },
+    {
+      "id": "018cecfb63ab49378b36aac7facd25cb",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "6539",
+        "Tên Xã": "Đông Khánh Sơn",
+        "Mã Bưu cục": "654220",
+        "Tên Bưu cục": "VHX Sơn Trung",
+        "Họ và tên người sử dụng": "Trần Thị Phúc",
+        "Mã HRM": "00108802",
+        "Bộ phận / Phòng ban": "VHX Sơn Trung",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "SONTRUNG",
+        "Loại máy": "Desktop",
+        "Hãng": "DELL",
+        "Model": "HP ProDesk 600 G5 Desktop Mini",
+        "Năm sản xuất": "",
+        "Serial Number": "8CC01132HS",
+        "CPU": "Intel(R) Core(TM) i3-9100T CPU @ 3.10GHz",
+        "RAM": "7.8 GB",
+        "Ổ cứng": "240 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.19044",
+        "Office": "Microsoft Office Professional Plus 2016",
+        "Antivirus": "Windows Defender",
+        "IP Address": "192.168.1.3",
+        "MAC Address": "38:22:E2:18:96:1C"
+      },
+      "attachments": [
+        {
+          "type": "thermal_printer",
+          "name": "CANON",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-06-19T03:01:08",
+      "updatedAt": "2026-06-19T03:01:08"
     }
   ]
 }
