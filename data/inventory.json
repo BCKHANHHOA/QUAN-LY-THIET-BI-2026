@@ -4476,6 +4476,43 @@
       ],
       "createdAt": "2026-06-19T00:56:02",
       "updatedAt": "2026-06-19T00:56:02"
+    },
+    {
+      "id": "cd79dace2dfe43288b13b40a5ef9cbc3",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "6549",
+        "Tên Bưu cục": "bđx khánh sơn",
+        "Họ và tên người sử dụng": "Trần Thị Thu Hiền",
+        "Mã HRM": "00251136",
+        "Bộ phận / Phòng ban": "Kế toán",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "DESKTOP-IJS4ACH",
+        "Loại máy": "Desktop",
+        "Hãng": "Micro-Star International Co., Ltd.",
+        "Model": "MS-7C89",
+        "Năm sản xuất": "",
+        "Serial Number": "Default string",
+        "CPU": "Intel(R) Pentium(R) Gold G6405 CPU @ 4.10GHz",
+        "RAM": "3.9 GB",
+        "Ổ cứng": "111 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.19045",
+        "Office": "Microsoft Office Professional Plus 2016",
+        "Antivirus": "Trellix Endpoint Security, Windows Defender",
+        "IP Address": "10.57.136.10",
+        "MAC Address": "D8:BB:C1:13:C4:CC"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "brother",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-06-19T01:17:51",
+      "updatedAt": "2026-06-19T01:17:51"
     }
   ]
 }
