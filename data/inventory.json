@@ -4439,6 +4439,43 @@
       ],
       "createdAt": "2026-06-19T00:55:12",
       "updatedAt": "2026-06-19T00:55:12"
+    },
+    {
+      "id": "8c8750ece3ae4481b9da0a24b95d3fac",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "653850",
+        "Tên Bưu cục": "BƯU ĐIỆN VHX DIÊN BÌNH",
+        "Họ và tên người sử dụng": "NGUYỄN THỊ ÁI HOA",
+        "Mã HRM": "00038695",
+        "Bộ phận / Phòng ban": "KINH DOANH + BƯU TÁ VHX DIÊN BÌNH",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "DESKTOP-PQQ8333",
+        "Loại máy": "Desktop",
+        "Hãng": "ASUS",
+        "Model": "System Product Name",
+        "Năm sản xuất": "",
+        "Serial Number": "System Serial Number",
+        "CPU": "Intel(R) Pentium(R) Gold G6405 CPU @ 4.10GHz",
+        "RAM": "7.8 GB",
+        "Ổ cứng": "239 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.19045",
+        "Office": "Microsoft Office Professional Plus 2024 - en-us",
+        "Antivirus": "Windows Defender",
+        "IP Address": "192.168.1.7",
+        "MAC Address": "A0:AD:9F:C7:B7:E0"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "CANON LBP 2900",
+          "serial": "NDMA924904"
+        }
+      ],
+      "createdAt": "2026-06-19T00:56:02",
+      "updatedAt": "2026-06-19T00:56:02"
     }
   ]
 }
