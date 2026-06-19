@@ -4685,6 +4685,43 @@
       "attachments": [],
       "createdAt": "2026-06-19T02:28:01",
       "updatedAt": "2026-06-19T02:28:01"
+    },
+    {
+      "id": "94775e63853d4fa0b4354dd61ab7839a",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "653884",
+        "Tên Bưu cục": "VHX xã Diên Thạnh",
+        "Họ và tên người sử dụng": "Nguyễn Thuỵ Phương Thảo",
+        "Mã HRM": "00250812",
+        "Bộ phận / Phòng ban": "nhân viên",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "DESKTOP-PQQ8333",
+        "Loại máy": "Desktop",
+        "Hãng": "ASUS",
+        "Model": "System Product Name",
+        "Năm sản xuất": "",
+        "Serial Number": "System Serial Number",
+        "CPU": "Intel(R) Pentium(R) Gold G6405 CPU @ 4.10GHz",
+        "RAM": "7.8 GB",
+        "Ổ cứng": "239 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.19045",
+        "Office": "Microsoft Office Professional Plus 2024 - en-us",
+        "Antivirus": "Windows Defender",
+        "IP Address": "192.168.1.3",
+        "MAC Address": "A0:AD:9F:C7:B7:7E"
+      },
+      "attachments": [
+        {
+          "type": "barcode_reader",
+          "name": "",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-06-19T02:39:09",
+      "updatedAt": "2026-06-19T02:39:09"
     }
   ]
 }
