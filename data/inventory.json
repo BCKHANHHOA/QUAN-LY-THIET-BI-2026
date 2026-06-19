@@ -4397,6 +4397,48 @@
       "attachments": [],
       "createdAt": "2026-06-18T10:32:53",
       "updatedAt": "2026-06-18T10:32:53"
+    },
+    {
+      "id": "07f2d2015e6d43888c479486c8cf24fe",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "Cam Lâm",
+        "Tên Xã": "Cam Lâm",
+        "Mã Bưu cục": "655250",
+        "Tên Bưu cục": "Cam Hải Tây",
+        "Họ và tên người sử dụng": "Nguyễn Kim Yến Nhi",
+        "Mã HRM": "00263777",
+        "Bộ phận / Phòng ban": "nvkd",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "KHA-CL-VHXCHT",
+        "Loại máy": "Desktop",
+        "Hãng": "Gigabyte Technology Co., Ltd.",
+        "Model": "H510M H V2",
+        "Năm sản xuất": "",
+        "Serial Number": "Default string",
+        "CPU": "Intel(R) Core(TM) i3-10105 CPU @ 3.70GHz",
+        "RAM": "7.8 GB",
+        "Ổ cứng": "1053 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.19045",
+        "Office": "Microsoft Office LTSC Professional Plus 2021 - en-us",
+        "Antivirus": "Kaspersky Free, Windows Defender, Kaspersky Endpoint Security for Windows",
+        "IP Address": "192.168.1.2",
+        "MAC Address": "74:56:3C:97:AD:A8"
+      },
+      "attachments": [
+        {
+          "type": "photocopier",
+          "name": "",
+          "serial": ""
+        },
+        {
+          "type": "barcode_reader",
+          "name": "",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-06-19T00:55:12",
+      "updatedAt": "2026-06-19T00:55:12"
     }
   ]
 }
