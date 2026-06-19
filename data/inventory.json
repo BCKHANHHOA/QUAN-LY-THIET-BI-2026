@@ -4586,6 +4586,43 @@
       "attachments": [],
       "createdAt": "2026-06-19T02:05:45",
       "updatedAt": "2026-06-19T02:05:45"
+    },
+    {
+      "id": "fac0cddebf554b55be80c576ecd81f34",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "6521",
+        "Tên Xã": "Bưu điện xã Vạn Thắng",
+        "Mã Bưu cục": "653530",
+        "Tên Bưu cục": "VHX Vạn Thắng",
+        "Họ và tên người sử dụng": "Nguyễn Thái Kiều Oanh",
+        "Mã HRM": "00038541",
+        "Bộ phận / Phòng ban": "GĐX Vạn Thắng",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "DESKTOP-2UU3BG1",
+        "Loại máy": "Desktop",
+        "Hãng": "Dell Inc.",
+        "Model": "OptiPlex 3020M",
+        "Năm sản xuất": "",
+        "Serial Number": "BNYBH32",
+        "CPU": "Intel(R) Core(TM) i3-4150T CPU @ 3.00GHz",
+        "RAM": "7.9 GB",
+        "Ổ cứng": "238 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.19045",
+        "Office": "Microsoft Office Professional Plus 2021 - en-us",
+        "Antivirus": "Windows Defender",
+        "IP Address": "10.57.132.16",
+        "MAC Address": "F8:BC:12:A4:B6:83"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "laser jet pro M203dn",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-06-19T02:19:58",
+      "updatedAt": "2026-06-19T02:19:58"
     }
   ]
 }
