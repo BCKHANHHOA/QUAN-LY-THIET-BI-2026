@@ -4753,6 +4753,37 @@
       "attachments": [],
       "createdAt": "2026-06-19T02:42:32",
       "updatedAt": "2026-06-19T02:42:32"
+    },
+    {
+      "id": "eb2e0bcfeeb341efaa6698d81bc55858",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "653840",
+        "Tên Bưu cục": "VHX Diên Tân",
+        "Họ và tên người sử dụng": "Trần Thị Kim Nguyệt",
+        "Mã HRM": "00038694",
+        "Bộ phận / Phòng ban": "kinh doanh xã Diên Thọ",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "ADMIN",
+        "Loại máy": "Desktop",
+        "Hãng": "MSI",
+        "Model": "MS-7817",
+        "Năm sản xuất": "",
+        "Serial Number": "To be filled by O.E.M.",
+        "CPU": "Intel(R) Pentium(R) CPU G3260 @ 3.30GHz",
+        "RAM": "3.9 GB",
+        "Ổ cứng": "149 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.17134",
+        "Office": "Microsoft Office 64-bit Components 2016",
+        "Antivirus": "",
+        "IP Address": "192.168.1.3",
+        "MAC Address": "30:9C:23:9C:6D:22"
+      },
+      "attachments": [],
+      "createdAt": "2026-06-19T03:00:03",
+      "updatedAt": "2026-06-19T03:00:03"
     }
   ]
 }
