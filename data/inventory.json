@@ -4625,35 +4625,35 @@
       "updatedAt": "2026-06-19T02:19:58"
     },
     {
-      "id": "a64348a8d0944c7f9eee608d5ca3a5af",
+      "id": "d6cd39643af0468a9395e85e075e740c",
       "category": "3. Máy Tính",
       "fields": {
         "Mã BĐ Xã": "",
         "Tên Xã": "",
-        "Mã Bưu cục": "653790",
-        "Tên Bưu cục": "VHX DIÊN LẠC",
-        "Họ và tên người sử dụng": "VŨ THỊ KIM THOA",
-        "Mã HRM": "00108526",
-        "Bộ phận / Phòng ban": "KINH DOANH XÃ DIÊN LẠC",
+        "Mã Bưu cục": "",
+        "Tên Bưu cục": "",
+        "Họ và tên người sử dụng": "",
+        "Mã HRM": "",
+        "Bộ phận / Phòng ban": "",
         "Mã vật tư": "",
-        "Tên máy (Hostname)": "KHA-DK-VHXDL",
-        "Loại máy": "Desktop",
-        "Hãng": "MSI",
-        "Model": "MS-7817",
+        "Tên máy (Hostname)": "",
+        "Loại máy": "",
+        "Hãng": "",
+        "Model": "",
         "Năm sản xuất": "",
-        "Serial Number": "To be filled by O.E.M.",
-        "CPU": "Intel(R) Core(TM) i3-4160 CPU @ 3.60GHz",
-        "RAM": "3.9 GB",
-        "Ổ cứng": "586 GB",
-        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.16299",
+        "Serial Number": "",
+        "CPU": "",
+        "RAM": "",
+        "Ổ cứng": "",
+        "Hệ điều hành": "",
         "Office": "",
-        "Antivirus": "Windows Defender, FortiClient AntiVirus",
-        "IP Address": "192.168.1.171",
-        "MAC Address": "2C:F0:5D:AF:02:34"
+        "Antivirus": "",
+        "IP Address": "",
+        "MAC Address": ""
       },
       "attachments": [],
-      "createdAt": "2026-06-19T02:26:28",
-      "updatedAt": "2026-06-19T02:26:28"
+      "createdAt": "2026-06-19T02:26:30",
+      "updatedAt": "2026-06-19T02:26:30"
     }
   ]
 }
