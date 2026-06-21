@@ -4962,6 +4962,37 @@
       "attachments": [],
       "createdAt": "2026-06-19T10:00:00",
       "updatedAt": "2026-06-19T10:00:00"
+    },
+    {
+      "id": "373d22b854e14fdf82a958d17f5b5e3a",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "65",
+        "Tên Bưu cục": "65",
+        "Họ và tên người sử dụng": "ABABAB",
+        "Mã HRM": "00038",
+        "Bộ phận / Phòng ban": "BDT",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "DESKTOP-1DIVE8R",
+        "Loại máy": "Laptop",
+        "Hãng": "ASUSTeK COMPUTER INC.",
+        "Model": "VivoBook_ASUSLaptop X409FA_X409FA",
+        "Năm sản xuất": "",
+        "Serial Number": "K8N0CX09A942347",
+        "CPU": "Intel(R) Core(TM) i3-8145U CPU @ 2.10GHz",
+        "RAM": "3,9 GB",
+        "Ổ cứng": "1049 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Enterprise 10.0.19042",
+        "Office": "Microsoft Office Professional Plus 2021 - en-us",
+        "Antivirus": "Windows Defender",
+        "IP Address": "172.168.0.244",
+        "MAC Address": "50:E0:85:38:6A:5D"
+      },
+      "attachments": [],
+      "createdAt": "2026-06-21T03:04:45",
+      "updatedAt": "2026-06-21T03:04:45"
     }
   ]
 }
