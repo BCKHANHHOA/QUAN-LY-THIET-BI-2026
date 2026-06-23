@@ -4993,6 +4993,43 @@
       "attachments": [],
       "createdAt": "2026-06-21T03:04:45",
       "updatedAt": "2026-06-21T03:04:45"
+    },
+    {
+      "id": "f8cabe400d8045598a1b038731362374",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "650000",
+        "Tên Xã": "Nha Trang",
+        "Mã Bưu cục": "650000",
+        "Tên Bưu cục": "Giao Dịch trung tâm",
+        "Họ và tên người sử dụng": "Lê Thị Hiền Dịu",
+        "Mã HRM": "00038912",
+        "Bộ phận / Phòng ban": "Khối quản lý trung tâm vận hành",
+        "Mã vật tư": "abc",
+        "Tên máy (Hostname)": "KHA-TTKD-DIEU",
+        "Loại máy": "Desktop",
+        "Hãng": "Dell Inc.",
+        "Model": "OptiPlex 3020M",
+        "Năm sản xuất": "0",
+        "Serial Number": "FMYBH32",
+        "CPU": "Intel(R) Core(TM) i3-4150T CPU @ 3.00GHz",
+        "RAM": "3.9 GB",
+        "Ổ cứng": "238 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.19045",
+        "Office": "Microsoft Office Professional Plus 2019 - en-us",
+        "Antivirus": "Windows Defender",
+        "IP Address": "10.57.137.69",
+        "MAC Address": "F8:BC:12:A4:33:8C"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "canon",
+          "serial": "790"
+        }
+      ],
+      "createdAt": "2026-06-23T07:02:28",
+      "updatedAt": "2026-06-23T07:02:28"
     }
   ]
 }
