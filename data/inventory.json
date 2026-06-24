@@ -5227,6 +5227,48 @@
       ],
       "createdAt": "2026-06-24T08:18:40",
       "updatedAt": "2026-06-24T08:18:40"
+    },
+    {
+      "id": "a63203720bf040e4a909e1de0a1f96d1",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "650000",
+        "Tên Bưu cục": "NHA TRANG",
+        "Họ và tên người sử dụng": "NGUYỄN THỊ KIM TÂY",
+        "Mã HRM": "00038866",
+        "Bộ phận / Phòng ban": "BƯU ĐIỆN PHƯỜNG NHA TRANG",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "KHA-NT-Q-TRANG",
+        "Loại máy": "Desktop",
+        "Hãng": "Gigabyte Technology Co., Ltd.",
+        "Model": "H310M DS2 2.0",
+        "Năm sản xuất": "",
+        "Serial Number": "Default string",
+        "CPU": "Intel(R) Pentium(R) Gold G5400 CPU @ 3.70GHz",
+        "RAM": "3.9 GB",
+        "Ổ cứng": "226 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.19043",
+        "Office": "Microsoft Office Professional Plus 2016",
+        "Antivirus": "Windows Defender, FortiClient AntiVirus, Kaspersky Endpoint Security for Windows",
+        "IP Address": "10.57.129.35",
+        "MAC Address": "B4:2E:99:50:E3:05"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "CANON 2900",
+          "serial": ""
+        },
+        {
+          "type": "barcode_reader",
+          "name": "SYMBOL",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-06-24T14:10:05",
+      "updatedAt": "2026-06-24T14:10:05"
     }
   ]
 }
