@@ -5154,6 +5154,37 @@
       "attachments": [],
       "createdAt": "2026-06-24T01:21:25",
       "updatedAt": "2026-06-24T01:21:25"
+    },
+    {
+      "id": "8e615535b25b487c80d38c04ccf79384",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "abc",
+        "Tên Xã": "abc",
+        "Mã Bưu cục": "abc",
+        "Tên Bưu cục": "abc",
+        "Họ và tên người sử dụng": "Phan Thị Thu Hồng",
+        "Mã HRM": "00038936",
+        "Bộ phận / Phòng ban": "CSKH TTVH",
+        "Mã vật tư": "abc",
+        "Tên máy (Hostname)": "PNV-THUHONG",
+        "Loại máy": "Desktop",
+        "Hãng": "Dell Inc.",
+        "Model": "OptiPlex 5060",
+        "Năm sản xuất": "",
+        "Serial Number": "G6Z1TR2",
+        "CPU": "Intel(R) Core(TM) i3-8100T CPU @ 3.10GHz",
+        "RAM": "3.8 GB",
+        "Ổ cứng": "582 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.19045",
+        "Office": "Microsoft Office LTSC Professional Plus 2021 - en-us",
+        "Antivirus": "Windows Defender, Kaspersky Endpoint Security for Windows",
+        "IP Address": "10.57.137.68",
+        "MAC Address": "B8:85:84:A7:30:6F"
+      },
+      "attachments": [],
+      "createdAt": "2026-06-24T02:27:55",
+      "updatedAt": "2026-06-24T02:27:55"
     }
   ]
 }
