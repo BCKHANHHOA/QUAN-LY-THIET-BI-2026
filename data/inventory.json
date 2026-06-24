@@ -5269,6 +5269,53 @@
       ],
       "createdAt": "2026-06-24T14:10:05",
       "updatedAt": "2026-06-24T14:10:05"
+    },
+    {
+      "id": "36617294a9504f77987f8fd556e82e54",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "650000",
+        "Tên Bưu cục": "Nha Trang",
+        "Họ và tên người sử dụng": "Trương Thế Anh",
+        "Mã HRM": "00228526",
+        "Bộ phận / Phòng ban": "Bưu điện phường Nha Trang",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "KHA-NT-GDTT-Q1",
+        "Loại máy": "Desktop",
+        "Hãng": "Dell Inc.",
+        "Model": "OptiPlex 3020M",
+        "Năm sản xuất": "",
+        "Serial Number": "B60FH62",
+        "CPU": "Intel(R) Core(TM) i3-4160T CPU @ 3.10GHz",
+        "RAM": "3.9 GB",
+        "Ổ cứng": "114 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Enterprise LTSC 10.0.17763",
+        "Office": "Microsoft Office 64-bit Components 2016",
+        "Antivirus": "Windows Defender, Kaspersky Endpoint Security for Windows",
+        "IP Address": "10.57.129.32",
+        "MAC Address": "64:00:6A:06:2B:9D"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "Canon LBP2900",
+          "serial": ""
+        },
+        {
+          "type": "thermal_printer",
+          "name": "Zebra ZD620",
+          "serial": ""
+        },
+        {
+          "type": "barcode_reader",
+          "name": "Symbol",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-06-24T14:12:12",
+      "updatedAt": "2026-06-24T14:12:12"
     }
   ]
 }
